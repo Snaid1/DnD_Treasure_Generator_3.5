@@ -1,0 +1,57 @@
+52
+01|02|Oil of Bless weapon|100
+03|04|Potion of Enlarge person|250
+05|05|Potion of Reduce person|250
+06|06|Potion of Aid|300
+07|07|Potion of Barkskin +2|300
+08|10|Potion of Bear's endurance|300
+11|13|Potion of Blur|300
+14|16|Potion of Bull's strength|300
+17|19|Potion of Cat's grace|300
+20|27|Potion of Cure moderate wounds|300
+28|28|Oil of Darkness|300
+29|30|Potion of Darkvision|300
+31|31|Potion of Delay poison|300
+32|33|Potion of Eagle's splendor|300
+34|35|Potion of Fox's cunning|300
+36|37|<OilPotion> of Invisibility|300
+38|38|Potion of Lesser restoration|300
+39|39|<OilPotion> of Levitate|300
+40|40|Potion of Misdirection|300
+41|42|Potion of Owl's wisdom|300
+43|43|Potion of Protection from arrows 10/magic|300
+44|44|Potion of Remove paralysis|300
+45|46|Potion of Resist <Energy> 10|300
+47|48|Potion of Shield of faith +3|300
+49|49|Potion of Spider climb|300
+50|50|Potion of Undetectable alignment|300
+51|51|Potion of Barkskin +3|600
+52|52|Potion of Shield of faith +4|600
+53|55|Potion of Resist <Energy> 20|700
+56|60|Potion of Cure serious wounds|750
+61|61|Oil of Daylight|750
+62|64|Potion of Displacement|750
+65|65|Oil of Flame arrow|750
+66|68|Potion of Fly|750
+69|69|Potion of Gaseous form|750
+70|71|Potion of Greater magic fang +1|750
+72|73|Oil of Greater magic weapon +1|750
+74|75|Potion of Haste|750
+76|78|Potion of Heroism|750
+79|80|Oil of Keen edge|750
+81|81|Potion of Magic circle against <Alignment>|750
+82|83|Oil of Magic vestment +1|750
+84|86|Potion of Neutralize poison|750
+87|88|Potion of Nondetection|750
+89|91|Potion of Protection from <Energy>|750
+92|93|Potion of Rage|750
+94|94|Potion of Remove blindness/deafness|750
+95|95|Potion of Remove curse|750
+96|96|Potion of Remove disease|750
+97|97|Potion of Tongues|750
+98|99|Potion of Water breathing|750
+100|100|Potion of Water walk|750
+
+// Dungeon Masters Guide - Page 230
+// Table 7-17:Potions and Oils
+// Middle Column - Medium

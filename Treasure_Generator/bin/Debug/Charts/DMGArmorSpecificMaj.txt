@@ -1,0 +1,13 @@
+8
+01|10|Adamantine Breastplate|10200
+11|20|Dwarven Plate|16500
+21|32|Banded Mail of Luck|18900
+33|50|Celestial Armor|18900
+51|60|Plate Armor of the Deep|18900
+61|75|Breastplate of Command|18900
+76|90|Mithral Full Plate of Speed|18900
+91|100|Demon Armor|18900
+
+// Dungeon Masters Guide - Page 220
+// Table 7-7:Specific Armors
+// Right Column - Major

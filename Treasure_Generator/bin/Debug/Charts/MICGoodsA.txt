@@ -1,0 +1,28 @@
+23
+01|01|banded agate<Gem>|0
+02|02|eye agate<Gem>|0
+03|03|moss agate<Gem>|0
+04|04|azurite<Gem>|0
+05|05|blue quartz<Gem>|0
+06|06|hematite<Gem>|0
+07|07|lapis lazuli<Gem>|0
+08|08|malachite<Gem>|0
+09|09|obsidian<Gem>|0
+10|10|rhodochrosite<Gem>|0
+11|11|tiger eye turquoise<Gem>|0
+12|12|freshwater pearl<Gem>|0
+13|13|steel pledge pin<Art>|0
+14|14|boarskin hat<Art>|0
+15|15|embroidered linen blanket<Art>|0
+16|16|platter carved from maple<Art>|0
+17|17|sealskin boots<Art>|0
+18|18|teak bowl<Art>|0
+19|19|cotton tunic with royal crest<Art>|0
+20|20|bronze spectacles<Art>|0
+21|21|granite dice<Art>|0
+22|22|satin belt<Art>|0
+23|23|hammered brass wine cup<Art>|0
+
+// Magic Item Compendium - Page 265
+// Sample Gems/Art
+// Type A: Average Value 10 gp

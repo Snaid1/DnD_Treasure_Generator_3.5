@@ -1,0 +1,12 @@
+7
+01|25|Mithril Shirt|1100
+26|45|Dragonhide Plate|3300
+46|57|Elven Chain|4150
+58|67|Rhino Hide|5165
+68|82|Adamantine Breastplate|10200
+83|97|Dwarven Plate|16500
+98|100|Banded Mail of Luck|18900
+
+// Dungeon Masters Guide - Page 220
+// Table 7-7:Specific Armors
+// Middle Column - Medium

@@ -1,0 +1,19 @@
+14
+01|07|create water|12|5
+08|14|cure minor wounds|12|5
+15|22|detect magic|12|5
+23|29|detect poison|12|5
+30|36|flare|12|5
+37|43|guidance|12|5
+44|50|inflict minor wounds|12|5
+51|57|know direction|12|5
+58|65|light|12|5
+66|72|mending|12|5
+73|79|purify food and drink|12|5
+80|86|read magic|12|5
+87|93|resistance|12|5
+94|100|virtue|12|5
+
+// Dungeon Masters Guide - Page 241
+// Table 7-24:Divine spell Scrolls
+// 0-level Divine Spells

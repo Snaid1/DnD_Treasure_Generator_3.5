@@ -1,0 +1,8 @@
+3
+01|50|Mithril Shirt|1100
+51|80|Dragonhide Plate|3300
+81|100|Elven Chain|4150
+
+// Dungeon Masters Guide - Page 220
+// Table 7-7:Specific Armors
+// Left Column - Minor

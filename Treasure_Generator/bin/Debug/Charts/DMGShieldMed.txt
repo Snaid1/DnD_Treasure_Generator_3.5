@@ -1,0 +1,22 @@
+17
+01|10|ArrowCatching|0
+11|20|Bashing|0
+21|25|Blinding|0
+26|40|FortificationLight|0
+41|50|ArrowDeflection|0
+51|57|Animated|0
+58|59|SpellResistance13|0
+60|63|AcidResistance|0
+64|67|ColdResistance|0
+68|71|ElectricityResistance|0
+72|75|FireResistance|0
+76|79|SonicResistance|0
+80|85|GhostTouch|0
+86|95|FortificationModerate|0
+96|98|SpellResistance15|0
+99|99|Wild|0
+100|100|ROLLTWICE|0
+
+// Dungeon Masters Guide - Page 218
+// Table 7-6:Shield Special Abilities
+// Middle Column - Medium

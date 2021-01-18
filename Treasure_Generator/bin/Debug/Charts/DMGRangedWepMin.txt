@@ -1,0 +1,15 @@
+10
+01|12|Bane|0
+13|25|Distance|0
+26|40|Flaming|0
+41|55|Frost|0
+56|60|Merciful|0
+61|68|Returning|0
+69|83|Shock|0
+84|93|Seeking|0
+94|99|Thundering|0
+100|100|ROLLTWICE|0
+
+// Dungeon Masters Guide - Page 223
+// Table 7-15:Rangeed Weapon Special Abilities
+// Left Column - Minor

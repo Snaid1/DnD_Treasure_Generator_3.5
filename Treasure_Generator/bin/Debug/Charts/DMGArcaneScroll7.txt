@@ -1,0 +1,40 @@
+35
+01|03|greater arcane sight|2275
+04|07|banishment|2275
+08|10|Bigby's grasping hand|2275
+11|13|control undead|2275
+14|16|control weather|2275
+17|19|delayed blast fireball|2275
+20|21|Drawmij's instant summons|3275
+22|25|ethereal jaunt|2275
+26|28|finger of death|2275
+29|31|forcecage|23775
+32|35|hold person mass|2275
+36|38|insanity|2275
+39|42|invisibility mass|2275
+43|43|limited wish|3775
+44|45|Mordenkainen's magnificent mansion|2275
+46|48|Mordenkainen's sword|2275
+49|51|phase door|2275
+52|54|plane shift|2275
+55|57|power word blind|2275
+58|61|prismatic spray|2275
+62|64|project image|2280
+65|67|reverse gravity|2275
+68|70|greater scrying|2275
+71|73|sequester|2275
+74|76|greater shadow conjuration|2275
+77|77|simulacrum|7275
+78|80|spell turning|2275
+81|82|statue|2275
+83|85|summon monster VII|2275
+86|86|symbol of stunning|7275
+87|87|symbol of weakness|7275
+88|90|teleport object|2275
+91|95|greater teleport|2275
+96|97|vision|2775
+98|100|waves of exhaustion|2275
+
+// Dungeon Masters Guide- Page 240
+// Table 7-23:Arcane Spell Scrolls
+// 7th-Level Arcane Spells

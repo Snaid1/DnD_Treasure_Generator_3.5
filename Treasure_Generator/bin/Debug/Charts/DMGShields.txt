@@ -1,0 +1,11 @@
+6
+01|10|Buckler|165
+11|15|Light Wooden Shield|153
+16|20|Light Steel Shield|159
+21|30|Heavy Wooden Shield|157
+31|95|Heavy Steel Shield|170
+96|100|Tower Shield|180
+
+// Dungeon Masters Guide 3.5 - Page 216
+// Table 7-4:Random Shield Type
+// 

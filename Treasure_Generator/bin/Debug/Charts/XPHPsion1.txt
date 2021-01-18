@@ -1,0 +1,43 @@
+42
+1|1|Astral Traveler|0
+2|2|Attraction|0
+3|3|Bolt|0
+4|4|Call to Mind|0
+5|5|Catfall|0
+6|6|Conceal Thoughts|0
+7|7|Control Flames|0
+8|8|Control Light|0
+9|9|Create Sound|0
+10|10|Crystal Shard|0
+11|11|Psionic Daze|0
+12|12|Deceleration|0
+13|13|Déjà Vu|0
+14|14|Demoralize|0
+15|15|Detect Psionics|0
+16|16|Disable|0
+17|17|Dissipating Touch|0
+18|18|Distract|0
+19|19|Ecto Protection|0
+20|20|Empathy|0
+21|21|Empty Mind|0
+22|22|Energy Ray|0
+23|23|Entangling Ectoplasm|0
+24|24|Far Hand|0
+25|25|Float|0
+26|26|Force Screen|0
+27|27|Psionic Grease|0
+28|28|Hammer|0
+29|29|Inertial Armor|0
+30|30|Know Direction and Location|0
+31|31|Matter Agitation|0
+32|32|Mind Thrust|0
+33|33|Missive|0
+34|34|My Light|0
+35|35|Defensive Precognition, Defensive|0
+36|36|Offensive Precognition|0
+37|37|Offensive Prescience|0
+38|38|Sense Link|0
+39|39|Skate|0
+40|40|Synesthete|0
+41|41|Telempathic Projection|0
+42|42|Vigor|0

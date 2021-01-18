@@ -1,0 +1,23 @@
+18
+01|01|large wool tapestry<art>|0
+02|02|brass mug with jade inlays<art>|0
+03|03|harp painted with pastoral scene<art>|0
+04|04|mountain landscape in ash frame<art>|0
+05|05|wall hanging of a forest in black ink<art>|0
+06|06|velvet cloak with eagle feathers<art>|0
+07|07|small marble statue of an athlete<art>|0
+08|08|granite cup carved with staring eyes<art>|0
+09|09|ivory bust of a high priest<art>|0
+10|10|mithral circlet engraved with elvish poetry<art>|0
+11|11|dragonhide gloves<art>|0
+12|12|onyx hourglass set with malachite<art>|0
+13|13|coral brooch with oval jasper setting<art>|0
+14|14|gold anklet with bloodstone cabochons<art>|0
+15|15|adamantine armband with filigree carvings<art>|0
+16|16|oil painting of a royal wedding<art>|0
+17|17|jade cameo pendant<art>|0
+18|18|life-size darkwood cat sculpture with yellow topaz eyes<art>|0
+
+// Magic Item Compendium - Page 265
+// Sample Gems/Art
+// Type D: Average Value 250 gp

@@ -1,0 +1,29 @@
+24
+01|01|amber<gem>|0
+02|02|amethyst<gem>|0
+03|03|chrysoberyl<gem>|0
+04|04|coral<gem>|0
+05|05|red garnet<gem>|0
+06|06|brown-green garnet<gem>|0
+07|07|jade<gem>|0
+08|08|jet<gem>|0
+09|09|white pearl<gem>|0
+10|10|golden pearl<gem>|0
+11|11|pink pearl<gem>|0
+12|12|silver pearl<gem>|0
+13|13|red spinel<gem>|0
+14|14|red-brown spinel<gem>|0
+15|15|deep green spinel<gem>|0
+16|16|tourmaline<gem>|0
+17|17|cloth of gold vestments<art>|0
+18|18|black velvet mask adorned with citrines<art>|0
+19|19|silver chalice with lapis inlay<art>|0
+20|20|coral saucer<art>|0
+21|21|heraldic banner edged with swan feathers<art>|0
+22|22|marble relief of dwarf wrestlers<art>|0
+23|23|copper anklet plated with silver<art>|0
+24|24|prayer mat with inlaid gold thread<art>|0
+
+// Magic Item Compendium - Page 265
+// Sample Gems/Art
+// Type C: Average Value 100 gp

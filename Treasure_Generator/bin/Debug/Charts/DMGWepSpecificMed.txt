@@ -1,0 +1,23 @@
+18
+01|09|Javelin of lightning|1500
+10|15|Slaying arrow|2282
+16|24|Adamantine dagger|3002
+25|33|Adamantine battleaxe|3010
+34|37|Greater Slaying arrow|4057
+38|40|Shatterspike|4315
+41|46|Dagger of venom|8302
+47|51|Trident of warning|10115
+52|57|Assassin's dagger|10302
+58|62|Shifter's sorrow|12780
+63|66|Trident of fish command|18650
+67|74|Flame tongue|20715
+75|79|Luck blade (0 wishes)|22060
+80|86|Sword of subtlety|22310
+87|91|Sword of the planes|22315
+92|95|Nine lives stealer|23057
+96|98|Sword of life stealing|25715
+99|100|Oathbow|25600
+
+// Dungeon Masters Guide - Page 227
+// Table 7-16:Specific Weapons
+// Middle Column - Medium

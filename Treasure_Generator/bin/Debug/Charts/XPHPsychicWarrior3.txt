@@ -1,0 +1,17 @@
+16
+1|1|Claws of the Vampire|0
+2|2|Greater Concealing Amorpha|0
+3|3|Danger Sense|0
+4|4|Dimension Slide|0
+5|5|Duodimensional Claw|0
+6|6|Ectoplasmic Form|0
+7|7|Empathic Feedback|0
+8|8|Hostile Empathic Transfer|0
+9|9|Escape Detection|0
+10|10|Evade Burst|0
+11|11|Exhalation of the Black Dragon|0
+12|12|Graft Weapon|0
+13|13|Psionic Keen Edge|0
+14|14|Mental Barrier|0
+15|15|Ubiquitous Vision|0
+16|16|Vampiric Blade|0

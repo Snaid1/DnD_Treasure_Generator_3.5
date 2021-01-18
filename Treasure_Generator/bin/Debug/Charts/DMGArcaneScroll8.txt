@@ -1,0 +1,40 @@
+35
+01|02|antipathy|3000
+03|05|Bigby's clenched fist|3000
+06|08|binding|8500
+09|12|mass charm monster|3000
+13|13|clone|4000
+14|16|create greater undead|3000
+17|19|demand|3600
+20|22|dimensional lock|3000
+23|26|discern location|3000
+27|29|horrid wilting|3000
+30|32|incendiary cloud|3000
+33|35|iron body|3000
+36|38|maze|3000
+39|41|mind blank|3000
+42|44|moment of prescience|3000
+45|48|Otiluke's telekinetic sphere|3000
+49|51|Otto's irresistible dance|3000
+52|54|greater planar binding|3000
+55|57|polar ray|3000
+58|60|polymorph any object|3000
+61|63|power word stun|3000
+64|66|prismatic wall|3000
+67|70|protection from spells|3500
+71|73|greater prying eyes|3000
+74|76|scintillating pattern|3000
+77|78|screen|3000
+79|81|greater shadow evocation|3000
+82|84|greater shout|3000
+85|87|summon monster VIII|3000
+88|90|sunburst|3000
+91|91|symbol of death|8000
+92|92|symbol of insanity|8000
+93|94|sympathy|4500
+95|98|temporal stasis|3500
+99|100|trap the soul|13000
+
+// Dungeon Masters Guide- Page 240
+// Table 7-23:Arcane Spell Scrolls
+// 8th-Level Arcane Spells

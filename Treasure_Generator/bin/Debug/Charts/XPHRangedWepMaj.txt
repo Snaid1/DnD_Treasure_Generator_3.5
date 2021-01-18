@@ -1,0 +1,10 @@
+9
+01|30|Collision|0
+31|40|Suppression|0
+41|65|PsychokineticBurst|0
+66|69|Psibane|0
+70|73|Manifester|0
+74|79|Dislocator|0
+80|90|GreatDislocator|0
+91|97|CoupDeGrace|0
+98|100|ROLLTWICE|0

@@ -1,0 +1,36 @@
+31
+01|05|Aberrations|0
+06|09|Animals|0
+10|16|Constructs|0
+17|22|Dragons|0
+23|27|Elementals|0
+28|32|Fey|0
+33|39|Giants|0
+40|40|Aquatic Humanoid|0
+41|42|Dwarf|0
+43|44|Elf|0
+45|45|Gnoll|0
+46|46|Gnome|0
+47|49|Goblinoid|0
+50|50|Halfling|0
+51|54|Human|0
+55|57|Reptilian Humanoid|0 
+58|60|Orc|0
+61|65|Magical beast|0
+66|70|Monstrous Humanoid|0
+71|72|Ooze|0
+73|73|Air Outsider|0
+74|76|Chaotic Outsider|0
+77|77|Earth Outsider|0
+78|80|Evil Outsider|0
+81|81|Fire Outsider|0
+82|84|Good Outsider|0
+85|87|Lawful Outsider|0
+88|88|Water Outsider|0
+89|90|Plant|0
+91|98|Undead|0
+99|100|Vermin|0
+
+// Dungeon Masters Guide - Page 224
+// Table - : Bane Designated Foe
+// 

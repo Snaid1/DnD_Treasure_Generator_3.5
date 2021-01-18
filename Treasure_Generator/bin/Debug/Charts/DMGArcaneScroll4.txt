@@ -1,0 +1,53 @@
+48
+01|02|animate dead|1050
+03|05|arcane eye|700
+06|07|bestow curse|700
+08|10|charm monster|700
+11|13|confusion|700
+14|15|contagion|700
+16|17|crushing despair|700
+18|18|cure critical wounds|1000
+19|19|detect scrying|700
+20|23|dimension door|700
+24|26|dimensional anchor|700
+27|28|enervation|700
+29|30|mass enlarge person|700
+31|32|Evard's black tentacles|700
+33|34|fear|700
+35|37|fire shield|700
+38|39|fire trap|725
+40|42|freedom of movement|1000
+43|43|lesser geas|700
+44|46|lesser globe of invulnerability|700
+47|48|hallucinatory terrain|700
+49|50|ice storm|700
+51|52|illusory wall|700
+53|55|greater invisibility|700
+56|57|Leomund's secure shelter|700
+58|58|locate creature|700
+59|60|minor creation|700
+61|61|modify memory|1000
+62|62|neutralize poison|1000
+63|64|Otiluke's resilient sphere|700
+65|66|phantasmal killer|700
+67|68|polymorph|700
+69|70|rainbow pattern|700
+71|71|Rary's mnemonic enhancer|700
+72|73|mass reduce person|700
+74|76|remove curse|700
+77|77|repel vermin|1000
+78|79|scrying|700
+80|81|shadow conjuration|700
+82|83|shout|700
+84|85|solid fog|700
+86|86|speak with plants|1000
+87|88|stone shape|700
+89|91|stoneskin|950
+92|93|summon monster IV|700
+94|96|wall of fire|700
+97|99|wall of ice|700
+100|100|zone of silence|1000
+
+// Dungeon Masters Guide- Page 239
+// Table 7-23:Arcane Spell Scrolls
+// 4th-Level Arcane Spells

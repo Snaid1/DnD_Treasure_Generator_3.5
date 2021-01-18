@@ -1,0 +1,4 @@
+3
+01|20|Teleporting|0
+21|40|Psychokinetic|0
+41|100|Collision|0

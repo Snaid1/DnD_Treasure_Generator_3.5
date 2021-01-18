@@ -1,0 +1,34 @@
+29
+01|04|Cancellation|11000
+05|06|Metamagic Rod (Enlarge)|11000
+07|08|Metamagic Rod (Extend)|11000
+09|10|Metamagic Rod (Silent)|11000
+11|14|Wonder|12000
+15|18|Python|13000
+19|21|Flame extinguishing|15000
+22|25|Viper|19000
+26|30|Enemy detection|23500
+31|36|Greater Metamagic Rod (Enlarge)|24500
+37|42|Greater Metamagic Rod (Extend)|24500
+43|48|Greater Metamagic Rod (Silent)|24500
+49|53|Splendor|25000
+54|58|Withering|25000
+59|64|Metamagic Rod (Empower)|32500
+65|69|Thunder and lightning|33000
+70|73|Lesser Metamagic Rod (Quicken)|35000
+74|77|Negation|37000
+78|80|Absorption|50000
+81|84|Flailing|50000
+85|86|Metamagic Rod (Maximize)|54000
+87|88|Rulership|60000
+89|90|Security|61000
+91|92|Lordly might|70000
+93|94|Greater Metamagic Rod (Empower)|73000
+95|96|Metamagic Rod (Quicken)|75500
+97|98|Alertness|85000
+99|99|Greater Metamagic Rod (Maximize)|121500
+100|100|Greater Metamagic Rod (Quicken)|170000
+
+// Dungeon Masters Guide - Page 234
+// Table 7-19:Rods
+// Right Column - Major

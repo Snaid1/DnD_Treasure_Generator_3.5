@@ -1,0 +1,8 @@
+7
+1|1|Affinity Field|0
+2|2|Apopsi|0
+3|3|Assimilate|0
+4|4|Psionic Etherealness|0
+5|5|Microcosm|0
+6|6|Reality Revision|0
+7|7|Timeless Body|0

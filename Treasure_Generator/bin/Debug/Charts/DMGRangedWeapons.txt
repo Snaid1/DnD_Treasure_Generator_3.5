@@ -1,0 +1,23 @@
+19
+01|05|Arrows(50)|350|4
+06|08|Crossbow Bolts(50)|350|4
+09|10|Sling Bullets(50)|350|2
+11|15|Throwing Axe|308|1
+16|25|Heavy Crossbow|350|4
+26|35|Light Crossbow|335|4
+36|39|Dart|301|4
+40|41|Javelin|301|4
+42|46|Shortbow|330|4
+47|51|Composite Shortbow|375|4
+52|56|Composite Shortbow(+1 Str bonus)|450|4
+57|61|Composite Shortbow(+2 Str bonus)|525|4
+62|65|Sling|300|2
+66|75|Longbow|375|4
+76|80|Composite Longbow|400|4
+81|85|Composite Longbow(+1 Str bonus)|500|4
+86|90|Composite Longbow(+2 Str bonus)|600|4
+91|95|Composite Longbow(+3 Str bonus)|700|4
+96|100|Composite Longbow(+4 Str bonus)|800|4
+
+// Dungeon Masters Guide - Page 223
+// Table 7-13:Common Ranged Weapons

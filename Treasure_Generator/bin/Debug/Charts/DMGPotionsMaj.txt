@@ -1,0 +1,54 @@
+49
+01|02|Potion of Blur|300
+03|07|Potion of Cure moderate wounds|300
+08|09|Potion of Darkvision|300
+10|11|<OilPotion> of Invisibility|300
+12|12|Potion of Lesser restoration|300
+13|13|Potion of Remove paralysis|300
+14|14|Potion of Shield of faith +3|300
+15|15|Potion of Undetectable alignment|300
+16|16|Potion of Barkskin +3|600
+17|18|Potion of Shield of faith +4|600
+19|20|Potion of Resist <Energy> 20|700
+21|28|Potion of Cure serious wounds|750
+29|29|Oil of Daylight|750
+30|32|Potion of Displacement|750
+33|33|Oil of Flame arrow|750
+34|38|Potion of Fly|750
+39|39|Potion of Gaseous form|750
+40|41|Potion of Haste|750
+42|44|Potion of Heroism|750
+45|46|Oil of Keen edge|750
+47|47|Potion of Magic circle against <Alignment>|750
+48|50|Potion of Neutralize poison|750
+51|52|Potion of Nondetection|750
+53|54|Potion of Protection from <Energy>|750
+55|55|Potion of Rage|750
+56|56|Potion of Remove blindness/deafness|750
+57|57|Potion of Remove curse|750
+58|58|Potion of Remove disease|750
+59|59|Potion of Tongues|750
+60|60|Potion of Water breathing|750
+61|61|Potion of Water walk|750
+62|63|Potion of Barkskin +4|900
+64|64|Potion of Shield of faith +5|900
+65|65|Potion of Good hope|1050
+66|68|Potion of Resist <Energy> 30|1100
+69|69|Potion of Barkskin +5|1200
+70|73|Potion of Greater magic fang +2|1200
+74|77|Oil of Greater magic weapon +2|1200
+78|81|Oil of Magic vestment +2|1200
+82|82|Potion of Protection from arrows 15/magic|1500
+83|85|Potion of Greater magic fang +3|1800
+86|88|Oil of Greater magic weapon +3|1800
+89|91|Oil of Magic vestment +3|1800
+92|93|Potion of Greater magic fang +4|2400
+94|95|Oil of Greater magic weapon +4|2400
+96|97|Oil of Magic vestment +4|2400
+98|98|Potion of Greater magic fang +5|3000
+99|99|Oil of Greater magic weapon +5|3000
+100|100|Oil of Magic vestment +5|3000
+
+// Dungeon Masters Guide - Page 230
+// Table 7-17:Potions and Oils
+// Right Column - Major

@@ -1,0 +1,35 @@
+34
+1|1|Astral Traveler|0
+2|2|Biofeedback|0
+3|3|Bite of the Wolf|0
+4|4|Burst|0
+5|5|Call Weaponry|0
+6|6|Catfall|0
+7|7|Chameleon|0
+8|8|Claws of the Beast|0
+9|9|Compression|0
+10|10|Conceal Thoughts|0
+11|11|Detect Psionics|0
+12|12|Dissipating Touch|0
+13|13|Distract|0
+14|14|Elfsight|0
+15|15|Empty Mind|0
+16|16|Expansion|0
+17|17|Float|0
+18|18|Force Screen|0
+19|19|Grip of Iron|0
+20|20|Hammer|0
+21|21|Inertial Armor|0
+22|22|Metaphysical Claw|0
+23|23|Metaphysical Weapon|0
+24|24|My Light|0
+25|25|Defensive Precognition|0
+26|26|Offensive Precognition|0
+27|27|Offensive Prescience|0
+28|28|Prevenom|0
+29|29|Prevenom Weapon|0
+30|30|Skate|0
+31|31|Stomp|0
+32|32|Synesthete|0
+33|33|Thicken Skin|0
+34|34|Vigor|0

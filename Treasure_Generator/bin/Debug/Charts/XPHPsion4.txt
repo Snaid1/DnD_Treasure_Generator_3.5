@@ -1,0 +1,18 @@
+17
+1|1|Aura Sight|0
+2|2|Correspond|0
+3|3|Death Urge|0
+4|4|Detect Remote Viewing|0
+5|5|Psionic Dimension Door|0
+6|6|Psionic Divination|0
+7|7|Empathic Feedback|0
+8|8|Energy Adaptation|0
+9|9|Psionic Freedom of Movement|0
+10|10|Intellect Fortress|0
+11|11|Mindwipe|0
+12|12|Personality Parasite|0
+13|13|Power Leech|0
+14|14|Psychic Reformation|0
+15|15|Telekinetic Maneuver|0
+16|16|Trace Teleport|0
+17|17|Wall of Ectoplasm|0

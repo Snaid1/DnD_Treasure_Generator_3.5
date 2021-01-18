@@ -1,0 +1,48 @@
+43
+01|01|alarm|100
+02|03|bane|25
+04|06|bless|25
+07|09|bless water|50
+10|10|bless weapon|100
+11|12|calm animals|25
+13|14|cause fear|25
+15|16|charm animal|25
+17|19|command|25
+20|21|comprehend languages|25
+22|26|cure light wounds|25
+27|28|curse water|50
+29|30|deathwatch|25
+31|32|detect animals or plants|25
+33|35|detect <Alignment>|25
+36|37|detect snares and pits|25
+38|39|detect undead|25
+40|41|divine favor|25
+42|43|doom|25
+44|48|endure elements|25
+49|50|entangle|25
+51|52|entropic shield|25
+53|54|faerie fire|25
+55|56|goodberry|25
+57|58|hide from animals|25
+59|60|hide from undead|25
+61|62|inflict light wounds|25
+63|64|jump|25
+65|66|longstrider|25
+67|68|magic fang|25
+69|72|magic stone|25
+73|74|magic weapon|25
+75|78|obscuring mist|25
+79|80|pass without trace|25
+81|82|produce flame|25
+83|86|protection from <Alignment>|25
+87|88|remove fear|25
+89|90|sanctuary|25
+91|92|shield of faith|25
+93|94|shillelagh|25
+95|96|speak with animals|25
+97|98|summon monster I|25
+99|100|summon nature's ally I|25
+
+// Dungeon Masters Guide - Page 241
+// Table 7-24:Divine spell Scrolls
+// 1st-level Divine Spells

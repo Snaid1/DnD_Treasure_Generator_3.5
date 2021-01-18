@@ -1,0 +1,30 @@
+29
+01|04|Shard (+1, any one skill)|10
+05|07|Shard (+2, any one skill)|40
+08|10|Crawling tattoo (any 1st level)|50
+11|14|Crawling tattoo of concussion|50
+15|18|Shard (+3, any one skill)|90
+19|21|Shard (+4, any one skill)|160
+22|24|Shard (+5, any one skill)|250
+25|28|Crawling tattoo (any 2nd level)|300
+29|31|Pearl, brain lock|300
+32|35|Shard (+6, any one skill)|360
+36|38|Shard (+7, any one skill)|490
+39|41|Boots of stomping|600
+42|44|Shard (+8, any one skill)|640
+45|47|Crawling tattoo (any 3rd level)|750
+48|50|Crawling tattoo of energy bolt|750
+51|53|Pearl, breath crisis|750
+54|56|Shard (+9, any one skill)|810
+57|59|Boots of landing|1000
+60|63|Psionic restraints, lesser|1000
+64|67|Shard (+10, any one skill)|1000
+68|71|Pearl, personality parasite|1400
+72|75|Crystal mask of knowledge|2500
+76|79|Crystal mask of languages|2500
+80|85|Eyes of expanded vision|3000
+86|89|Gloves of object reading|3000
+90|92|Mirror of suggestion|3600
+93|94|Psionic restraints, average|6000
+95|97|Torc of free will|6000
+98|100|Boots of skating|7000

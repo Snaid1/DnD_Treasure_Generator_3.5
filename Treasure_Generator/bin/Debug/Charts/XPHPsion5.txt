@@ -1,0 +1,13 @@
+12
+1|1|Adapt Body|0
+2|2|Catapsi|0
+3|3|Ectoplasmic Shambler|0
+4|4|Incarnate|0
+5|5|Leech Field|0
+6|6|Psionic Major Creation|0
+7|7|Psionic Plane Shift|0
+8|8|Power Resistance|0
+9|9|Psychic Crush|0
+10|10|Shatter Mind Blank|0
+11|11|Tower of Iron Will|0
+12|12|Psionic True Seeing|0

@@ -1,0 +1,17 @@
+12
+01|01|embroidered silk and velvet mantle with moonstones<art>|0
+02|02|sapphire pendant on gold chain<art>|0
+03|03|embroidered and bejeweled glove<art>|0
+04|04|jeweled anklet<art>|0
+05|05|golden circlet with four aquamarines<art>|0
+06|06|necklace of pink pearls<art>|0
+07|07|basalt pyramid with images of dragons inlaid in gems<art>|0
+08|08|lead crown adorned with black pearlss<art>|0
+09|09|bejeweled gold tiara shaped like dragon horns<art>|0
+10|10|bronze music box with pearl inlay<art>|0
+11|11|mahogany bracelet plated with gold and platinum<art>|0
+12|12|dragonhide formal shoes with electrum buckles<art>|0
+
+// Magic Item Compendium - Page 265
+// Sample Gems/Art
+// Type G: Average Value 2500 gp

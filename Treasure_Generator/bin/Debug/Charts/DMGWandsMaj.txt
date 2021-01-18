@@ -1,0 +1,50 @@
+45
+01|02|Magic missile (CL 7)|5250
+03|05|Magic missile (CL 9)|6750
+06|07|Call lightning (CL 5)|11250
+08|08|Heightened charm person  (3rd-level spell)|11250
+09|10|Contagion|11250
+11|13|Cure serious wounds|11250
+14|15|Dispel magic|11250
+16|17|Fireball (CL 5)|11250
+18|19|Keen edge|11250
+20|21|Lightning bolt (CL 5)|11250
+22|23|Major image|11250
+24|25|Slow|11250
+26|27|Suggestion|11250
+28|29|Summon monster III|11250
+30|31|Fireball (CL 6)|13500
+32|33|Lightning bolt (CL 6h)|13500
+34|35|Searing light (CL 6)|13500
+36|37|Call lightning (CL 8)|18000
+38|39|Fireball (CL 8)|18000
+40|41|Lightning bolt (CL 8)|18000
+42|45|Charm monster|21000
+46|50|Cure critical wounds|21000
+51|52|Dimensional anchor|21000
+53|55|Fear|21000
+56|59|Greater invisibility|21000
+60|60|Heightened hold person (4th level)|21000
+61|65|Ice storm|21000
+66|68|Inflict critical wounds|21000
+69|72|Neutralize poison|21000
+73|74|Poison|21000
+75|77|Polymorph|21000
+78|78|Heightened ray of enfeeblement (4th level)|21000
+79|79|Heightened Suggestion (4th level)|21000
+80|82|Summon monster IV|21000
+83|86|Wall of fire|21000
+87|90|Wall of ice|21000
+91|91|Dispel magic (CL 10)|22500
+92|92|Fireball (CL 10)|22500
+93|93|Lightning bolt (CL 10)|22500
+94|94|Chaos hammer (CL 8)|24000
+95|95|Holy smite (CL 8)|24000
+96|96|Order's wrath (CL 8)|24000
+97|97|Unholy blight (CL 8)|24000
+98|99|Restoration|26000
+100|100|Stoneskin|33500
+
+// Dungeon Masters Guide - Page 246
+// Table 7-26:Wands
+// Right Column - Major

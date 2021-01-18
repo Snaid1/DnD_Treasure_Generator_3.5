@@ -1,0 +1,22 @@
+17
+01|07|Lesser Metamagic Rod(Enlarge)|3000
+08|14|Lesser Metamagic Rod(Extend)|3000
+15|21|Lesser Metamagic Rod(Silent)|3000
+22|28|Immovable|5000
+29|35|Lesser Metamagic Rod(Empower)|9000
+36|42|Metal and mineral detection|10500
+43|53|Cancellation|11000
+54|57|Metamagic Rod(Enlarge)|11000
+58|61|Metamagic Rod(Extend)|11000
+62|65|Metamagic Rod(Silent)|11000
+66|71|Wonder|12000
+72|79|Python|13000
+80|83|Lesser Metamagic Rod(Maximize)|14000
+84|89|Flame extinguishing|15000
+90|97|Viper|19000
+98|99|Metamagic Rod(Empower)|32500
+100|100|Lesser Metamagic Rod(Quicken)|35000
+
+// Dungeon Masters Guide - Page 234
+// Table 7-19:Rods
+// Left Column - Medium

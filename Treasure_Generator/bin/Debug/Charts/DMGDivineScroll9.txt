@@ -1,0 +1,24 @@
+19
+01|04|antipathy|3825
+05|07|astral projection|4870
+08|13|elemental swarm|3825
+14|19|energy drain|3825
+20|25|etherealness|3825
+26|31|foresight|3825
+32|37|gate|8825
+38|46|mass heal|3825
+47|53|implosion|3825
+54|55|miracle|28825
+56|61|regenerate|3825
+62|66|shambler|3825
+67|72|shapechange|3825
+73|77|soul bind|3825
+78|83|storm of vengeance|3825
+84|89|summon monster IX|3825
+90|95|summon nature's ally IX|3825
+96|99|sympathy|5325
+100|100|true resurrection|28825
+
+// Dungeon Masters Guide - Page 243
+// Table 7-24:Divine spell Scrolls
+// 9th-level Divine Spell

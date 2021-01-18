@@ -1,0 +1,15 @@
+10
+01|25|Glamered|0
+26|32|FortificationLight|0
+33|52|Slick|0
+53|72|Shadow|0
+73|92|SilentMoves|0
+93|96|SpellResistance13|0
+97|97|ImprovedSlick|0
+98|98|ImprovedShadow|0
+99|99|ImprovedSilentMoves|0
+100|100|ROLLTWICE|0
+
+// Dungeon Masters Guide - Page 217
+// Table 7-5:Armor Special Abilities
+// Left Column - Minor

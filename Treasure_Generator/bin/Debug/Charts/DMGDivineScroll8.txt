@@ -1,0 +1,30 @@
+25
+01|04|animal shapes|3000
+05|10|antimagic field|3000
+11|13|cloak of chaos|3000
+14|17|control plants|3000
+18|20|create greater undead|3600
+21|27|mass cure critical wounds|3000
+28|32|dimensional lock|3000
+33|36|discern location|3000
+37|41|earthquake|3000
+42|45|finger of death|3000
+46|49|fire storm|3000
+50|52|holy aura|3000
+53|56|mass inflict critical wounds|3000
+57|60|vplanar ally|5500
+61|65|repel metal or stone|3000
+66|69|reverse gravity|3000
+70|72|shield of law|3000
+73|76|greater spell immunity|3000
+77|80|summon monster VIII|3000
+81|84|summon nature's ally VIII|3000
+85|89|sunburst|3000
+90|91|symbol of death|8000
+92|93|symbol of insanity|8000
+94|96|unholy aura|3000
+97|100|whirlwind|3000
+
+// Dungeon Masters Guide - Page 243
+// Table 7-24:Divine spell Scrolls
+// 8th-level Divine Spell

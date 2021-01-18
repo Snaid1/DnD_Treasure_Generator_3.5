@@ -1,0 +1,41 @@
+40
+01|04|Psionatrix of clairsentience|8000
+05|08|Psionatrix of metacreativity|8000
+09|12|Psionatrix of psychokinesis|8000
+13|16|Psionatrix of psychometabolism|8000
+17|20|Psionatrix of psychoportation|8000
+21|25|Psionatrix of telepathy|8000
+26|27|Third eye penetrate|8000
+28|29|Mirror of time hop|9000
+30|31|Crystal mask of detection|10000
+32|33|Crystal mask of discernment|10000
+34|35|Crystal mask of dread|10000
+36|38|Crystal mask of psionic craft|10000
+39|41|Ring of self-suffi ciency|10000
+42|43|Skin of nimbleness|10000
+44|45|Third eye aware|10000
+46|47|Third eye concentrate|10000
+48|49|Third eye gather|10000
+50|52|Eyes of power leech|10080
+53|55|Third eye powerthieve|10080
+56|58|Third eye view|10180 
+59|61|Crystal mask of mindarmor|10667
+62|63|Psionic restraints, greater|12000
+64|65|Torc of leech freedom|12000
+66|68|Gloves of titans grip|14000
+69|70|Skin of the claw|16000
+71|72|Amulet of catapsi|16200
+73|74|Skin of the chameleon|18000
+75|76|Pearl, mind seed|18500
+77|78|Mirror of mind switch|19800
+79|80|Eyes of power leech, vampiric|20160
+81|82|Crystal mask of insightful detection|20250
+83|84|Crystal anchor, body|24000
+85|86|Crystal anchor, comprehension|24000
+87|88|Crystal anchor, creation|24000
+89|90|Crystal anchor, energy|24000
+91|91|Crystal anchor, ghost|24000
+92|93|Crystal anchor, mind|24000
+94|95|Crystal anchor, travel|24000
+96|97|Psionic restraints, damping|24000
+98|100|Third eye sense|24000

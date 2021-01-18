@@ -1,0 +1,25 @@
+20
+01|05|Glamered|0
+06|08|FortificationLight|0
+09|11|Slick|0
+12|14|Shadow|0
+15|17|SilentMoves|0
+18|19|SpellResistance13|0
+20|29|ImprovedSlick|0
+30|39|ImprovedShadow|0
+40|49|ImprovedSilentMoves|0
+50|54|AcidResistance|0
+55|59|ColdResistance|0
+60|64|ElectricityResistance|0
+65|69|FireResistance|0
+70|74|SonicResistance|0
+75|79|GhostTouch|0
+80|84|Invulnerability|0
+85|89|FortificationModerate|0
+90|94|SpellResistance15|0
+95|99|Wild|0
+100|100|ROLLTWICE|0
+
+// Dungeon Masters Guide - Page 217
+// Table 7-5:Armor Special Abilities
+// Middle Column - Medium

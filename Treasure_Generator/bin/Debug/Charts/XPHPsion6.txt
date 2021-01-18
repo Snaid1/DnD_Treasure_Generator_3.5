@@ -1,0 +1,13 @@
+12
+1|1|Aura Alteration|0
+2|2|Breath of the Black Dragon|0
+3|3|Mass Cloud Mind|0
+4|4|Psionic Contingency|0
+5|5|Co-opt Concentration|0
+6|6|Psionic Disintegrate|0
+7|7|Fuse Flesh|0
+8|8|Psionic Overland Flight|0
+9|9|Remote View Trap|0
+10|10|Retrieve|0
+11|11|Suspend Life|0
+12|12|Temporal Acceleration|0

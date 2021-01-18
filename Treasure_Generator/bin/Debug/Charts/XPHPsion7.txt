@@ -1,0 +1,13 @@
+12
+1|1|Decerebrate|0
+2|2|Divert Teleport|0
+3|3|Energy Conversion|0
+4|4|Energy Wave|0
+5|5|Evade Burst|0
+6|6|Insanity|0
+7|7|Personal Mind Blank|0
+8|8|Moment of Prescience|0
+9|9|Oak Body|0
+10|10|Psionic Phase Door|0
+11|11|Psionic Sequester|0
+12|12|Ultrablast|0

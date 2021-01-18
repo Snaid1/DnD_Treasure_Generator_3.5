@@ -1,0 +1,20 @@
+15
+01|18|Ring of Protection +1|2000
+19|28|Ring of Feather falling|2200
+29|36|Ring of Sustenance|2500
+37|44|Ring of Climbing|2500
+45|52|Ring of Jumping|2500
+53|60|Ring of Swimming|2500
+61|70|Ring of Counterspells|4000
+71|75|Ring of Mind shielding|8000
+76|80|Ring of Protection +2|8000
+81|85|Ring of Force shield|8500
+86|90|Ring of Ram|8600
+91|93|Ring of Animal friendship|10800
+94|96|Ring of Minor Energy resistance|12000
+97|98|Ring of Chameleon power|12700
+99|100|Ring of Water walking|15000
+
+// Dungeon Masters Guide - Page 231
+// Table 7-18:Rings
+// Left Column - Minor

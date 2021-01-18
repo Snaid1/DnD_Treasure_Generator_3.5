@@ -1,0 +1,13 @@
+8
+01|30|Quickness|0
+31|74|Landing|0
+75|80|Floating|0
+81|96|Linked|0
+97|97|Seeing|0
+98|98|PowerResistance13|0
+99|99|Ectoplasmic|0
+100|100|ROLLTWICE|0
+
+// Expanded Psionic Handbook - Page 162
+// Table 7-3:Psionic Armor Special Abilities
+// Left Column - Minor

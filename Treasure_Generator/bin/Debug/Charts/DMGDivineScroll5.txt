@@ -1,0 +1,42 @@
+37
+01|03|animal growth|1125
+04|05|atonement|3625
+06|06|awaken|2375
+07|09|baleful polymorph|1125
+10|13|break enchantment|1125
+14|16|call lightning storm|1125
+17|20|greater command|1125
+21|21|commune|1625
+22|22|commune with nature|1125
+23|24|control winds|1125
+25|30|mass cure light wounds|1125
+31|34|dispel <Alignment>|1125
+35|38|disrupting weapon|1125
+39|41|flame strike|1125
+42|43|hallow|61251
+44|46|ice storm|1125
+47|49|mass inflict light wounds|1125
+50|52|insect plague|1125
+53|53|mark of justice|1125
+54|56|plane shift|1125
+57|58|raise dead|6125
+59|61|righteous might|1125
+62|63|scrying|1125
+64|66|slay living|1125
+67|69|spell resistance|1125
+70|71|stoneskin|1375
+72|74|summon monster V|1125
+75|77|summon nature's ally V|1125
+78|78|symbol of pain|2125
+79|79|symbol of sleep|2125
+80|82|transmute mud to rock|1125
+83|85|transmute rock to mud|1125
+86|89|true seeing|1375
+90|91|unhallow|6125
+92|94|wall of fire|1125
+95|97|wall of stone|1125
+98|100|wall of thorns|1125
+
+// Dungeon Masters Guide - Page 242
+// Table 7-24:Divine spell Scrolls
+// 5th-level Divine Spells

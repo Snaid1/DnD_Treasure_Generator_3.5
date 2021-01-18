@@ -1,0 +1,12 @@
+7
+01|34|Heartening|0
+35|60|Ranged|0
+61|89|Linked|0
+90|97|PowerResistance13|0
+98|98|Manifester|0
+99|99|Averter|0
+100|100|ROLLTWICE|0
+
+// Expanded Psionic Handbook - Page 162
+// Table 7-4:Psionic Shield Special Abilities
+// Left Column - Minor
