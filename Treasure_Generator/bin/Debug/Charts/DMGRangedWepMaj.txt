@@ -1,0 +1,23 @@
+18
+01|04|Bane|0
+05|08|Distance|0
+09|12|Flaming|0
+13|16|Frost|0
+17|21|Returning|0
+22|25|Shock|0
+26|27|Seeking|0
+28|29|Thundering|0
+30|34|Anarchic|0
+35|39|Axiomatic|0
+40|49|FlamingBurst|0
+50|54|Holy|0
+55|64|IcyBurst|0
+65|74|ShockingBurst|0
+75|79|Unholy|0
+80|84|Speed|0
+85|90|BrilliantEnergy|0
+96|100|ROLLTWICE|0
+
+// Dungeon Masters Guide - Page 223
+// Table 7-15:Ranged Weapon Special Abilities
+// Right Column - Major

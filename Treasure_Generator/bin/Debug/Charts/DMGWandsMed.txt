@@ -1,0 +1,45 @@
+40
+01|03|Magic missile (CL 5)|3750
+04|07|Bear's endurance|4500
+08|11|Bull's strength|4500
+12|15|Cat's grace|4500
+16|20|Cure moderate wounds|4500
+21|22|Darkness|4500
+23|24|Daylight|4500
+25|27|Delay poison|4500
+28|31|Eagle's splendor|4500
+32|33|False life|4500
+34|37|Fox's cunning|4500
+38|38|Ghoul touch|4500
+39|39|Hold person|4500
+40|42|Invisibility|4500
+43|44|Knock|4500
+45|45|Levitate|4500
+46|47|Melf's acid arrow|4500
+48|49|Mirror image|4500
+50|53|Owl's wisdom|4500
+54|54|Shatter|4500
+55|56|Silence|4500
+57|57|Summon monster II|4500
+58|59|Web|4500
+60|62|Magic missile (CL 7)|5250
+63|64|Magic missile (CL 9)|6750
+65|67|Call lightning (CL 5)|11250
+68|68|Heightened charm person  (3rd-level spell)|11250
+69|70|Contagion|11250
+71|74|Cure serious wounds|11250
+75|77|Dispel magic|11250
+78|81|Fireball (CL 5)|11250
+82|83|Keen edge|11250
+84|87|Lightning bolt (CL 5)|11250
+88|89|Major image|11250
+90|91|Slow|11250
+92|94|Suggestion|11250
+95|97|Summon monster III|11250
+98|98|Fireball (CL 6)|13500
+99|99|Lightning bolt (CL 6)|13500
+100|100|Searing light (CL 6)|13500
+
+// Dungeon Masters Guide - Page 246
+// Table 7-26:Wands
+// Middle Column - Medium

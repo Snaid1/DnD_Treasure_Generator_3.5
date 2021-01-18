@@ -1,0 +1,25 @@
+20
+01|05|Ring of Counterspells|4000
+06|08|Ring of Mind shielding|8000
+09|18|Ring of Protection +2|8000
+19|23|Ring of Force shield|8500
+24|28|Ring of Ram|8600
+29|34|Ring of Improved Climbing|10000
+35|40|Ring of Improved Jumping|10000
+41|46|Ring of Improved Swimming |10000
+47|51|Ring of Animal friendship|10800
+50|56|Ring of Minor Energy resistance|12000
+57|61|Ring of Chameleon power|12700
+62|66|Ring of Water walking|15000
+67|71|Ring of Protection +3|18000
+72|76|Ring of Minor Spell storing|18000
+77|81|Ring of Invisibility|20000
+82|85|Ring of Wizardry (I)|20000
+86|90|Ring of Evasion|25000
+91|93|Ring of X-ray vision|25000
+94|97|Ring of Blinking|27000
+98|100|Ring of Major Energy resistance|28000
+
+// Dungeon Masters Guide - Page 231
+// Table 7-18:Rings
+// Middle Column - Medium

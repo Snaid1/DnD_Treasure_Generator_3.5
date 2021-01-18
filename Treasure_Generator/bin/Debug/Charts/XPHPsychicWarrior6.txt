@@ -1,0 +1,6 @@
+5
+1|1|Breath of the Black Dragon|0
+2|2|Dispelling Buffer|0
+3|3|Form of Doom|0
+4|4|Personal Mind Blank|0
+5|5|Suspend Life|0

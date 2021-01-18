@@ -1,0 +1,63 @@
+58
+01|01|animal messenger|200
+02|02|animal trance|200
+03|03|arcane lock|175
+04|06|bear's endurance|150
+07|08|blindness/deafness|150
+09|10|blur|150
+11|13|bull's strength|150
+14|14|calm emotions|200
+15|17|cat's grace|150
+18|19|command undead|150
+20|20|continual flame|200
+21|21|cure moderate wounds|200
+22|22|darkness|150
+23|25|darkvision|150
+26|26|daze monster|150
+27|27|delay poison|200
+28|29|detect thoughts|150
+30|31|disguise self|150
+32|34|eagle's splendor|150
+35|35|enthrall|200
+36|37|false life|150
+38|39|flaming sphere|150
+40|40|fog cloud|150
+41|43|fox's cunning|150
+44|44|ghoul touch|150
+45|46|glitterdust|150
+47|47|gust of wind|150
+48|49|hypnotic pattern|150
+50|52|invisibility|150
+53|55|knock|150
+56|56|Leomund's trap|200
+57|58|levitate|150
+59|59|locate object|150
+60|60|magic mouth|160
+61|62|Melf's acid arrow|150
+63|63|minor image|150
+64|65|mirror image|150
+66|66|misdirection|150
+67|67|obscure object|150
+68|70|owl's wisdom|150
+71|73|protection from arrows|150
+74|75|pyrotechnics|150
+76|78|resist energy|150
+79|79|rope trick|150
+80|80|scare|150
+81|82|scorching ray|150
+83|85|see invisibility|150
+86|86|shatter|150
+87|87|silence|200
+88|88|sound burst|200
+89|89|spectral hand|150
+90|91|spider climb|150
+92|93|summon monster II|150
+94|95|summon swarm|150
+96|96|Tasha's hideous laughter|150
+97|97|touch of idiocy|150
+98|99|web|150
+100|100|whispering wind|150
+
+// Dungeon Masters Guide- Page 239
+// Table 7-23:Arcane Spell Scrolls
+// 2nd-Level Arcane Spells

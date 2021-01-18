@@ -1,0 +1,36 @@
+31
+01|05|ArrowCatching|0
+06|08|Bashing|0
+09|10|Blinding|0
+11|15|FortificationLight|0
+16|20|ArrowDeflection|0
+21|25|Animated|0
+26|28|AcidResistance|0
+29|31|ColdResistance|0
+32|34|ElectricityResistance|0
+35|37|FireResistance|0
+38|40|SonicResistance|0
+41|46|GhostTouch|0
+47|56|FortificationModerate|0
+57|58|SpellResistance15|0
+59|59|Wild|0
+60|64|ImprovedAcidResistance|0
+65|69|ImprovedColdResistance|0
+70|74|ImprovedElectricityResistance|0
+75|79|ImprovedFireResistance|0
+80|84|ImprovedSonicResistance|0
+85|86|SpellResistance17|0
+87|87|UndeadControlling|0
+88|91|FortificationHeavy|0
+92|93|Reflecting|0
+94|94|SpelResistance19|0
+95|95|GreaterAcidResistance|0
+96|96|GreaterColdResistance|0
+97|97|GreaterElectricityResistance|0
+98|98|GreaterFireResistance|0
+99|99|GreaterSonicResistance|0
+100|100|ROLLTWICE|0
+
+// Dungeon Masters Guide - Page 218
+// Table 7-6:Shield Special Abilities
+// Middle Column - Medium

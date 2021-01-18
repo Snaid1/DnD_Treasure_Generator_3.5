@@ -1,0 +1,8 @@
+7
+01|20|Dominator|20250
+21|51|Evader|28500
+52|64|Cautious warrior|32063
+65|79|Beast|33750
+80|89|Great dominator|45000
+90|97|Astral legion|47250
+98|100|Discerning watcher|51469

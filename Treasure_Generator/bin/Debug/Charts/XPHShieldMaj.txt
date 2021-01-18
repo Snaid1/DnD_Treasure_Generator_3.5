@@ -1,0 +1,20 @@
+15
+01|03|Heartening|0
+04|05|Ranged|0
+06|10|Linked|0
+11|24|PowerResistance13|0
+25|34|Manifester|0
+35|44|Averter|0
+45|54|Vanishing|0
+55|64|PowerResistance15|0
+65|74|Wall|0
+75|81|Mindarmor|0
+82|88|PowerResistance17|0
+89|93|Aporter|0
+94|96|TimeButtress|0
+97|99|PowerResistance19|0
+100|100|ROLLTWICE|0
+
+// Expanded Psionic Handbook - Page 162
+// Table 7-4:Psionic Shield Special Abilities
+// Right Column - Major

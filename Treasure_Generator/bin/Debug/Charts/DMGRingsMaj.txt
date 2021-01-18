@@ -1,0 +1,34 @@
+29
+01|02|Ring of Minor Energy resistance|12000
+03|07|Ring of Protection +3|18000
+08|10|Ring of Minor Spell storing|18000
+11|15|Ring of Invisibility|20000
+16|19|Ring of Wizardry (I)|20000
+20|25|Ring of Evasion|25000
+26|28|Ring of X-ray vision|25000
+29|32|Ring of Blinking|27000
+33|39|Ring of Major Energy resistance|28000
+40|49|Ring of Protection +4|32000
+50|55|Ring of Wizardry (II)|40000
+56|60|Ring of Freedom of movement|40000
+61|63|Ring of Greater Energy resistance|44000
+64|65|Rings of Friend shield (pair)|50000
+66|70|Ring of Protection +5|50000
+71|74|Ring of Shooting stars|50000
+75|79|Ring of Spell storing|50000
+80|83|Ring of Wizardry (III)|70000
+84|86|Ring of Telekinesis|75000
+87|88|Ring of Regeneration|90000
+89|89|Ring of Three wishes|97950
+90|92|Ring of Spell turning|98280
+93|94|Ring of Wizardry (IV)|100000
+95|95|Ring of Djinni calling|125000
+96|96|Ring of Elemental command (air)|200000
+97|97|Ring of Elemental command (earth)|200000
+98|98|Ring of Elemental command (fire)|200000
+99|99|Ring of Elemental command (water)|200000
+100|100|Ring of Major Spell storing|200000
+
+// Dungeon Masters Guide - Page 231
+// Table 7-18:Rings
+// Right Column - Major

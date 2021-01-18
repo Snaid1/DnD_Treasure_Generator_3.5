@@ -1,0 +1,23 @@
+22
+1|1|Body Adjustment|0
+2|2|Body Purification|0
+3|3|Danger Sense|0
+4|4|Psionic Darkvision|0
+5|5|Dismiss Ectoplasm|0
+6|6|Dispel Psionics|0
+7|7|Energy Bolt|0
+8|8|Energy Burst|0
+9|9|Energy Retort|0
+10|10|Energy Wall|0
+11|11|Eradicate Invisibility|0
+12|12|Psionic Keen Edge|0
+13|13|Mental Barrier|0
+14|14|Mind Trap|0
+15|15|Psionic Blast|0
+16|16|Forced Share Pain|0
+17|17|Solicit Psicrystal|0
+18|18|Telekinetic Force|0
+19|19|Telekinetic Thrust|0
+20|20|Time Hop|0
+21|21|Touchsight|0
+22|22|Ubiquitous Vision|0

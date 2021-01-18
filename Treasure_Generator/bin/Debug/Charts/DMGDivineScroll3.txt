@@ -1,0 +1,50 @@
+45
+01|02|animate dead|625
+03|04|bestow curse|375
+05|06|blindness/deafness|375
+07|08|call lightning|375
+09|10|contagion|375
+11|12|continual flame|425
+13|14|create food and water|375
+15|18|cure serious wounds|375
+19|19|darkvision|375
+20|21|daylight|375
+22|23|deeper darkness|375
+24|25|diminish plants|375
+26|27|dispel magic|375
+28|29|dominate animal|375
+30|31|glyph of warding|575
+32|32|heal mount|375
+33|34|helping hand|375
+35|36|inflict serious wounds|375
+37|38|invisibility purge|375
+39|40|locate object|375
+41|46|magic circle against <Alignment>|375
+47|48|greater magic fang|375
+49|50|magic vestment|375
+51|52|meld into stone|375
+53|55|neutralize poison|375
+56|57|obscure object|375
+58|59|plant growth|375
+60|62|prayer|375
+63|64|protection from energy|375
+65|66|quench|375
+67|69|remove blindness/deafness|375
+70|71|remove curse|375
+72|73|remove disease|375
+74|76|searing light|375
+77|78|sleet storm|375
+79|80|snare|375
+81|83|speak with dead|375
+84|85|speak with plants|375
+86|87|spike growth|375
+88|89|stone shape|375
+90|91|summon monster III|375
+92|93|summon nature's ally III|375
+94|96|water breathing|375
+97|98|water walk|375
+99|100|wind wall|375
+
+// Dungeon Masters Guide - Page 242
+// Table 7-24:Divine spell Scrolls
+// 3rd-level Divine Spells

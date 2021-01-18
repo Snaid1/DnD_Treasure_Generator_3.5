@@ -1,0 +1,13 @@
+8
+01|20|ArrowCatching|0
+21|40|Bashing|0
+41|50|Blinding|0
+51|75|FortificationLight|0
+76|92|ArrowDeflection|0
+93|97|Animated|0
+98|99|SpellResistance13|0
+100|100|ROLLTWICE|0
+
+// Dungeon Masters Guide - Page 218
+// Table 7-6:Shield Special Abilities
+// Left Column - Minor

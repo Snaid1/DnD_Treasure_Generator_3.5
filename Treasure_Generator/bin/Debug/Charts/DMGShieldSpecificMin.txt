@@ -1,0 +1,9 @@
+4
+01|30|Darkwood buckler|205
+31|80|Darkwood shield|257
+81|95|Mithral heavy shield|1020
+96|100|Caster’s shield|3153
+
+// Dungeon Masters Guide - Page 221
+// Table 7-8:Specific Armors
+// Left Column - Minor

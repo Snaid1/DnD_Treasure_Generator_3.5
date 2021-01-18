@@ -1,0 +1,41 @@
+36
+01|02|Detect magic|375
+03|04|Light|375
+05|07|Burning hands|750
+08|10|Charm animal|750
+11|13|Charm person|750
+14|16|Color spray|750
+17|19|Cure light wounds|750
+20|22|Detect secret doors|750
+23|25|Enlarge person|750
+26|28|Magic missile (CL 1)|750
+29|31|Shocking grasp|750
+32|34|Summon monster I|750
+35|36|Magic missile (CL 3)|2250
+37|37|Magic missile (CL 5)|3750
+38|40|Bear's endurance|4500
+41|43|Bull's strength|4500
+44|46|Cat's grace|4500
+47|49|Cure moderate wounds|4500
+50|51|Darkness|4500
+52|54|Daylight|4500
+55|57|Delay poison|4500
+58|60|Eagle's splendor|4500
+61|63|False life|4500
+64|66|Fox's cunning|4500
+67|68|Ghoul touch|4500
+69|71|Hold person|4500
+72|74|Invisibility|4500
+75|77|Knock|4500
+78|80|Levitate|4500
+81|83|Melf's acid arrow|4500
+84|86|Mirror image|4500
+87|89|Owl's wisdom|4500
+90|91|Shatter|4500
+92|94|Silence|4500
+95|97|Summon monster II|4500
+98|100|Web|4500
+
+// Dungeon Masters Guide - Page 246
+// Table 7-26:Wands
+// Left Column - Minor

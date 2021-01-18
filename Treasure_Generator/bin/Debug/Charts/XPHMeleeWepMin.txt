@@ -1,0 +1,8 @@
+7
+01|15|Psychokinetic|0
+16|45|Dissipater|0
+46|55|Lucky|0
+56|70|Sundering|0
+71|80|PowerStoring|0
+81|99|Collision|0
+100|100|ROLLTWICE|0

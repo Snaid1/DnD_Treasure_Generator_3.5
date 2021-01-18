@@ -1,0 +1,38 @@
+33
+01|05|air walk|700
+06|07|antiplant shell|700
+08|09|blight|700
+10|11|break enchantment|700
+12|13|command plants|700
+14|15|control water|700
+16|21|cure critical wounds|700
+22|26|death ward|700
+27|31|dimensional anchor|700
+32|34|discern lies|700
+35|37|dismissal|700
+38|39|divination|725
+40|42|divine power|700
+43|47|freedom of movement|700
+48|49|giant vermin|700
+50|51|holy sword|700
+52|54|imbue with spell ability|700
+55|57|inflict critical wounds|700
+58|60|greater magic weapon|700
+61|62|nondetection|750
+63|64|lesser planar ally|1200
+65|67|poison|700
+68|69|reincarnate|700
+70|71|repel vermin|700
+72|76|restoration|800
+77|78|rusting grasp|700
+79|81|sending|700
+82|85|spell immunity|700
+86|87|spike stones|700
+88|90|summon monster IV|700
+91|93|summon nature's ally IV|700
+94|98|tongues|700
+99|100|tree stride|700
+
+// Dungeon Masters Guide - Page 242
+// Table 7-24:Divine spell Scrolls
+// 4th-level Divine Spells

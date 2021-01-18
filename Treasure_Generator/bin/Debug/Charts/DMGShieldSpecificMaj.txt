@@ -1,0 +1,10 @@
+5
+01|20|Caster’s shield|3153
+21|40|Spined shield|5580
+41|60|Lion’s shield|9170
+61|90|Winged shield|17257
+91|100|Absorbing shield|50170
+
+// Dungeon Masters Guide - Page 221
+// Table 7-8:Specific Armors
+// Right Column - Major

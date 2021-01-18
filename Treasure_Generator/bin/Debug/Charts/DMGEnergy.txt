@@ -1,0 +1,8 @@
+5
+01|01|Fire|0
+02|02|Cold|0
+03|03|Acid|0
+04|04|Electrisity|0
+05|05|Sonic|0
+
+// Energy Types For Given things

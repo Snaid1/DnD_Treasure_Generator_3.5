@@ -1,0 +1,26 @@
+21
+01|03|Charming|16500
+04|09|Fire|17750
+10|11|Swarming insects|24750
+12|17|Healing|27750
+18|19|Size alteration|29000
+20|24|Illumination|48250
+25|31|Frost|56250
+32|38|Defense|58250
+39|43|Abjuration|65000
+44|48|Conjuration|65000
+49|53|Enchantment|65000
+54|58|Evocation|65000
+59|63|Illusion|65000
+64|68|Necromancy|65000
+69|73|Transmutation|65000
+74|77|Divination|73500
+78|82|Earth and stone|80500
+83|87|Woodlands|101250
+88|92|Life|155750
+93|97|Passage|170500
+98|100|Power|211000
+
+// Dungeon Masters Guide - Page 243
+// Table 7-25:Staffs
+// Right Column - Major

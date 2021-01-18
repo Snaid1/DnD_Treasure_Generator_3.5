@@ -1,0 +1,40 @@
+35
+01|01|bloodstone<Gem>|0
+02|02|carnelian<Gem>|0
+03|03|chalcedony<Gem>|0
+04|04|chrysoprase<Gem>|0
+05|05|citrine<Gem>|0
+06|06|iolite<Gem>|0
+07|07|jasper<Gem>|0
+08|08|moonstone<Gem>|0
+09|09|onyx<Gem>|0
+10|10|peridot<Gem>|0
+11|11|clear quartz<Gem>|0
+12|12|sard<Gem>|0
+13|13|sardonyx<Gem>|0
+14|14|rose quartz<Gem>|0
+15|15|smoky quartz<Gem>|0
+16|16|star rose quartz<Gem>|0
+17|17|zircon<Gem>|0
+18|18|silver ewer<Art>|0
+19|19|carved bone statuette<Art>|0
+20|20|small gold bracelet<Art>|0
+21|21|bronze statue of a knight<Art>|0
+22|22|mahogany bust of a poet<Art>|0
+23|23|silver ring with blue quartz<Art>|0
+24|24|small perfume bottle of black crystal<Art>|0
+25|25|purple velvet gloves with silver stitching<Art>|0
+26|26|ornate wooden box<Art>|0
+27|27|bronze earrings set with ceramic ovals<Art>|0
+28|28|copper horn ringed with seashells<Art>|0
+29|29|oak candlestick<Art>|0
+30|30|mahogany tray carved with flowers<Art>|0
+31|31|rhinoceros-hide sack<Art>|0
+32|32|peacock-feather mask<Art>|0
+33|33|broad-brimmed velvet hat<Art>|0
+34|34|zircon-studded dancing slippers<Art>|0
+35|35|ivory statuette<Art>|0
+
+// Magic Item Compendium - Page 265
+// Sample Gems/Art
+// Type B: Average Value 50 gp

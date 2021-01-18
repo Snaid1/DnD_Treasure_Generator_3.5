@@ -1,0 +1,48 @@
+43
+01|03|alarm|25
+04|05|animate rope|25
+06|07|burning hands|25
+08|09|cause fear|25
+10|12|charm person|25
+13|14|chill touch|25
+15|16|color spray|25
+17|19|comprehend languages|25
+20|20|lesser confusion|50
+21|21|cure light wounds|50
+22|24|detect secret doors|25
+25|26|detect undead|25
+27|29|disguise self|25
+30|32|endure elements|25
+33|35|enlarge person|25
+36|37|erase|25
+38|40|expeditious retreat|25
+41|41|feather fall|25
+42|43|grease|25
+44|45|hold portal|25
+46|47|hypnotism|25
+48|49|identify|125
+50|51|jump|25
+52|54|mage armor|25
+55|56|magic missile|25
+57|59|magic weapon|25
+60|62|mount|25
+63|64|Nystul's magic aura|25
+65|66|obscuring mist|25
+67|74|protection from <Alignment>|25
+75|76|ray of enfeeblement|25
+77|78|reduce person|25
+79|80|remove fear|50
+81|82|shield|25
+83|84|shocking grasp|25
+85|86|silent image|25
+87|88|sleep|25
+89|90|summon monster I|25
+91|93|Tenser's floating disk|25
+94|95|true strike|25
+96|96|undetectable alignment|50
+97|98|unseen servant|25
+99|100|ventriloquism|25
+
+// Dungeon Masters Guide- Page 239
+// Table 7-23:Arcane Spell Scrolls
+// 1st-Level Arcane Spells

@@ -1,0 +1,13 @@
+8
+01|15|Charming|16500
+16|30|Fire|17750
+31|40|Swarming insects|24750
+41|60|Healing|27750
+61|75|Size alteration|29000
+76|90|Illumination|48250
+91|95|Frost|56250
+96|100|Defense|58250
+
+// Dungeon Masters Guide - Page 243
+// Table 7-25:Staffs
+// Left Column - Medium

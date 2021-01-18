@@ -1,0 +1,101 @@
+100
+01|01|Dimensional shackles|28000
+02|02|Figurine of wondrous power, obsidian steed|28500
+03|03|Drums of panic|30000
+04|04|Ioun stone, orange|30000
+05|05|Ioun stone, pale green prism|30000
+06|06|Lantern of revealing|30000
+07|07|Robe of blending|30000
+08|08|Amulet of natural armor +4|32000
+09|09|Amulet of proof against detection and location|35000
+10|10|Carpet of flying, 5 ft. by 10 ft.|35000
+11|11|Golem manual, iron|35000
+12|12|Amulet of health +6|36000
+13|13|Belt of giant Strength +6|36000
+14|14|Bracers of armor +6|36000
+15|15|Cloak of Charisma +6|36000
+16|16|Gloves of Dexterity +6|36000
+17|17|Hadband of intellect +6|36000
+18|18|Ioun stone, vibrant purple prism|36000
+19|19|Pearl of power, 6th-level spell|36000
+20|20|Periapt of Wisdom +6|36000
+21|21|Scarab of protection|38000
+22|22|Ioun stone, lavender and green ellipsoid|40000
+23|23|Ring gates|40000
+24|24|Crystal ball|42000
+25|25|Golem manual, greater stone|44000
+26|26|Orb of storms|48000
+27|27|Boots of teleportation|49000
+28|28|Bracers of armor +7|49000
+29|29|Pearl of power, 7th-level spell|49000
+30|30|Amulet of natural armor +5|50000
+31|31|Cloak of displacement, major|50000
+32|32|Crystal ball with see invisibility|50000
+33|33|Horn of Valhalla|50000
+34|34|Crystal ball with detect thoughts|51000
+35|35|Carpet of flying, 6 ft. by 9 ft.|53000
+36|36|Amulet of mighty fists +3|54000
+37|37|Wings of flying|54000
+38|38|Cloak of etherealness|55000
+39|39|Daern's instant fortress|55000
+40|40|Manual of bodily health +2|55000
+41|41|Manual of gainful exercise +2|55000
+42|42|Manual of quickness in action +2|55000
+43|43|Tome of clear thought +2|55000
+44|44|Tome of leadership and influence +2|55000
+45|45|Tome of understanding +2|55000
+46|46|Eyes of charming|56000
+47|47|Robe of stars|58000
+48|48|Carpet of flying, 10 ft. by 10 ft.|60000
+49|49|Darkskull|60000
+50|50|Cube of force|62000
+51|51|Bracers of armor +8|64000
+52|52|Pearl of power, 8th-level spell|64000
+53|53|Crystal ball with telepathy|70000
+54|54|Horn of blasting, greater|70000
+55|55|Pearl of power, two spells|70000
+56|56|Helm of teleportation|73500
+57|57|Gem of seeing|75000
+58|58|Robe of the archmagi|75000
+59|59|Mantle of faith|76000
+60|60|Crystal ball with true seeing|80000
+61|61|Pearl of power, 9th-level spell|81000
+62|62|Well of many worlds|82000
+63|63|Manual of bodily health +3|82500
+64|64|Manual of gainful exercise +3|82500
+65|65|Manual of quickness in action +3|82500
+66|66|Tome of clear thought +3|82500
+67|67|Tome of leadership and influence +3|82500
+68|68|Tome of understanding +3|82500
+69|69|Apparatus of Kwalish|90000
+70|70|Mantle of spell resistance|90000
+71|71|Mirror of opposition|92000
+72|72|Strand of prayer beads, greater|95800
+73|73|Amulet of mighty fists +4|96000
+74|74|Eyes of petrification|98000
+75|75|Bowl of commanding water elementals|100000
+76|76|Brazier of commanding fire elementals|100000
+77|77|Censer of controlling air elementals|100000
+78|78|Stone of controlling earth elementals|100000
+79|79|Manual of bodily health +4|110000
+80|80|Manual of gainful exercise +4|110000
+81|81|Manual of quickness in action +4|110000
+82|82|Tome of clear thought +4|110000
+83|83|Tome of leadership and influence +4|110000
+84|84|Tome of understanding +4|110000
+85|85|Amulet of the planes|120000
+86|86|Robe of eyes|120000
+87|87|Helm of brilliance|125000
+88|88|Manual of bodily health +5|137500
+89|89|Manual of gainful exercise +5|137500
+90|90|Manual of quickness in action +5|137500
+91|91|Tome of clear thought +5|137500
+92|92|Tome of leadership and influence +5|137500
+93|93|Tome of understanding +5|137500
+94|94|Efreeti bottle|145000
+95|95|Amulet of mighty fists +5|150000
+96|96|Chaos diamond|160000
+97|97|Cubic gate|164000
+98|98|Iron flask|170000
+99|99|Mirror of mental prowess|175000
+100|100|Mirror of life trapping|200000

@@ -1,0 +1,29 @@
+24
+01|05|animate plants|2275
+06|09|blasphemy|2275
+10|14|changestaff|2275
+15|16|control weather|2275
+17|21|creeping doom|2275
+22|27|mass cure serious wounds|2275
+28|32|destruction|2275
+33|36|dictum|2275
+37|41|ethereal jaunt|2275
+42|45|holy word|2275
+46|50|mass inflict serious wounds|2275
+51|55|refuge|3775
+56|60|regenerate|2275
+61|65|repulsion|2275
+66|69|restoration greater|4775
+70|71|resurrection|12275
+72|76|greater scrying|2275
+77|81|summon monster VII|2275
+82|85|summon nature's ally VII|2275
+86|90|sunbeam|2275
+91|91|symbol of stunning|7275
+92|92|symbol of weakness|7275
+93|97|transmute metal to wood|2275
+98|100|word of chaos|2275
+
+// Dungeon Masters Guide - Page 242
+// Table 7-24:Divine spell Scrolls
+// 7th-level Divine Spell

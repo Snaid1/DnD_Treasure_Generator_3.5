@@ -1,0 +1,11 @@
+10
+01|09|Dominator|20250
+10|20|Evader|28500
+21|31|Cautious warrior|32063
+32|41|Beast|33750
+42|58|Great dominator|45000
+59|68|Astral legion|47250
+69|78|Discerning watcher|51469
+79|89|Fiery Ruin|67500
+90|97|Traveler|80156
+98|100|Temporal juggler|95625

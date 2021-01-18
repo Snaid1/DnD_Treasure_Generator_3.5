@@ -1,0 +1,11 @@
+10
+01|15|Teleporting|0
+16|30|Psychokinetic|0
+31|45|Collision|0
+46|50|Suppression|0
+51|66|PsychokineticBurst|0
+67|74|Psibane|0
+75|78|Manifester|0
+79|82|Dislocator|0
+83|98|GreatDislocator|0
+99|100|ROLLTWICE|0

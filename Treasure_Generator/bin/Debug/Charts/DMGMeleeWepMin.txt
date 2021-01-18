@@ -1,0 +1,20 @@
+15
+01|10|Bane|0
+11|17|Defending|0
+18|27|Flaming|0
+28|37|Frost|0
+38|47|Shock|0
+48|56|GhostTouch|0
+57|67|Keen|0
+68|71|KiFocus|0
+72|75|Merciful|0
+76|82|MightyCleaving|0
+83|87|SpellStoring|0
+88|91|Throwing|0
+92|95|Thundering|0
+96|99|Vicious|0
+100|100|ROLLTWICE|0
+
+// Dungeon Masters Guide - Page 223
+// Table 7-14:Melee Weapon Special Abilities
+// Left Column - Minor

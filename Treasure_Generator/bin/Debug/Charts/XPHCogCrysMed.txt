@@ -1,0 +1,6 @@
+5
+1|40|Cognizance Crystal[1 pp]|1000
+41|74|Cognizance Crystal[3 pp]|4000
+75|89|Cognizance Crystal[5 pp]|9000
+90|98|Cognizance Crystal[7 pp]|16000
+99|100|Cognizance Crystal[9 pp]|25000

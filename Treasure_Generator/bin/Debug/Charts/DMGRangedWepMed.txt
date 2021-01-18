@@ -1,0 +1,22 @@
+17
+01|08|Bane|0
+09|16|Distance|0
+17|28|Flaming|0
+29|40|Frost|0
+41|42|Merciful|0
+43|47|Returning|0
+48|59|Shock|0
+60|64|Seeking|0
+65|68|Thundering|0
+69|71|Anarchic|0
+72|74|Axiomatic|0
+75|79|FlamingBurst|0
+80|82|Holy|0
+83|87|IcyBurst|0
+88|92|ShockingBurst|0
+93|95|Unholy|0
+96|100|ROLLTWICE|0
+
+// Dungeon Masters Guide - Page 223
+// Table 7-15:Rangeed Weapon Special Abilities
+// Middle Column - Medium

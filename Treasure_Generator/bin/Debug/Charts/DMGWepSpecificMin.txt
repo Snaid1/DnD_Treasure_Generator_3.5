@@ -1,0 +1,13 @@
+8
+01|15|Sleep arrow (<Creature>)|132
+16|25|Screaming bolt|267
+26|45|Silver dagger, masterwork|322
+46|65|Masterwork Cold iron longsword|330
+66|75|Javelin of lightning|1500
+76|80|Slaying arrow|2282
+81|90|Adamantine dagger|3002
+91|100|Adamantine battleaxe|3010
+
+// Dungeon Masters Guide - Page 227
+// Table 7-16:Specific Weapons
+// Left Column - Minor

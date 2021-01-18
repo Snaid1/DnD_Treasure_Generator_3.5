@@ -1,0 +1,24 @@
+23
+1|1|Animal Affinity|0
+2|2|Body Adjustment|0
+3|3|Body Equilibrium|0
+4|4|Body Purifi cation|0
+5|5|Concealing Amorpha|0
+6|6|Psionic Darkvision|0
+7|7|Detect Hostile Intent|0
+8|8|Dimension Swap|0
+9|9|Dissolving Touch|0
+10|10|Dissolving Weapon|0
+11|11|Empathic Transfer|0
+12|12|Specified Energy Adaptation|0
+13|13|Feat Leech|0
+14|14|Hustle|0
+15|15|Psionic Levitate|0
+16|16|Painful Strike|0
+17|17|Prowess|0
+18|18|Psionic Scent|0
+19|19|Psionic Lion’s Charge|0
+20|20|Strength of My Enemy|0
+21|21|Sustenance|0
+22|22|Thought Shield|0
+23|23|Wall Walker|0

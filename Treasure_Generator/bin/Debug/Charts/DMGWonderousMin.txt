@@ -1,0 +1,101 @@
+100
+01|01|Quaal's Feather Token, anchor|50
+02|02|Universal Solvent|50
+03|03|Elixir of Love|150
+04|04|Unguent of timelessness|150
+05|05|Quaal's feather token, fan|200
+06|06|Dust of tracelessness|250
+07|07|Elixir of hiding|250
+08|08|Elixir of sneaking|250
+09|09|Elixir of swimming|250
+10|10|Elixir of vision |250
+11|11|Silversheen|250
+12|12|Quaal's feather token, bird|300
+13|13|Quaal's feather token, tree|400
+14|14|Quaal's feather token, swan boat|450
+15|15|Elixir of truth|500
+16|16|Quaal's feather token, whip|500
+17|17|Dust of dryness|850
+18|18|Bag of tricks, gray|900
+19|19|Hand of the mage|900
+20|20|Bracers of armor +1|1000
+21|21|Cloak of resistance +1|1000
+22|22|Pearl of power, 1st-level spell|1000
+23|23|Phylactery of faithfulness|1000
+24|24|Salve of slipperiness|1000
+25|25|Elixir of fire breath|1100
+26|26|Pipes of the sewers|1150
+27|27|Dust of illusion|1200
+28|28|Goggles of minute seeing|1250
+29|29|Brooch of shielding|1500
+30|30|Necklace of fireballs type I|1650
+31|31|Dust of appearance|1800
+32|32|Hat of disguise|1800
+33|33|Pipes of sounding|1800
+34|34|Quiver of Ehlonna|1800
+35|35|Amulet of natural armor +1|2000
+36|36|Heward's handy haversack|2000
+37|37|Horn of fog|2000
+38|38|Elemental gem|2250
+39|39|Robe of bones|2400
+40|40|Sovereign glue|2400
+41|41|Bag of holding type I|2500
+42|42|Boots of elvenkind|2500
+43|43|Boots of the winterlands|2500
+44|44|Candle of truth|2500
+45|45|Cloak of elvenkind|2500
+46|46|Eyes of the eagle|2500
+47|47|Scarab, golembane|2500
+48|48|Necklace of fireballs type II|2700
+49|49|Stone of alarm|2700
+50|50|Bag of tricks, rust|3000
+51|51|Bead of force|3000
+52|52|Chime of opening|3000
+53|53|Horseshoes of speed|3000
+54|54|Rope of climbing|3000
+55|55|Dust of disappearance|3500
+56|56|Lens of detection|3500
+57|57|Vestment, druid's|3750
+58|58|Figurine of wondrous power, silver raven|3800
+59|59|Amulet of health +2|4000
+60|60|Bracers of armor +2|4000
+61|61|Cloak of Charisma +2|4000
+62|62|Cloak of resistance +2|4000
+63|63|Gauntlets of ogre power|4000
+64|64|Gloves of arrow snaring|4000
+65|65|Gloves of Dexterity +2|4000
+66|66|Headband of intellect +2|4000
+67|67|Ioun stone, clear spindle|4000
+68|68|Keoghtom's ointment|4000
+69|69|Nolzur's marvelous pigments|4000
+70|70|Pearl of power, 2nd-level spell|4000
+71|71|Periapt of Wisdom +2|4000
+72|72|Stone salve|4000
+73|73|Necklace of fireballs type III|4350
+74|74|Circlet of persuasion|4500
+75|75|Slippers of spider climbing|4800
+76|76|Incense of meditation|4900
+77|77|Bag of holding type II|5000
+78|78|Bracers of archery, lesser|5000
+79|79|Ioun stone, dusty rose prism|5000
+80|80|Helm of comprehend languages and read magic|5200
+81|81|Vest of escape|5200
+82|82|Eversmoking bottle|5400
+83|83|Murlynd's spoon|5400
+84|84|Necklace of fireballs type IV|5400
+85|85|Boots of striding and springing|5500
+86|86|Wind fan|5500
+87|87|Amulet of mighty fists +1|6000
+88|88|Horseshoes of a zephyr|6000
+89|89|Pipes of haunting|6000
+90|90|Necklace of fireballs type V|6150
+91|91|Gloves of swimming and climbing|6250
+92|92|Bag of tricks, tan|6300
+93|93|Circlet of blasting, minor|6480
+94|94|Horn of goodness/evil|6500
+95|95|Robe of useful items|7000
+96|96|Boat, Folding|7200
+97|97|Cloak of the manta ray|7200
+98|98|Bottle of air|7250
+99|99|Bag of holding type III|7400
+100|100|Periapt of health|7400

@@ -1,0 +1,17 @@
+12
+01|07|Quickness|0
+08|30|Landing|0
+31|46|Floating|0
+47|55|Linked|0
+56|66|Seeing|0
+67|75|PowerResistance13|0
+76|83|Ectoplasmic|0
+84|89|Gleaming|0
+90|94|PowerResistance15|0
+95|98|Vanishing|0
+99|99|Mindarmor|0
+100|100|ROLLTWICE|0
+
+// Expanded Psionic Handbook - Page 162
+// Table 7-3:Psionic Armor Special Abilities
+// Middle Column - Medium

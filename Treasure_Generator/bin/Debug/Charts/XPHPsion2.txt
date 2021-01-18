@@ -1,0 +1,30 @@
+29
+1|1|Bestow Power|0
+2|2|Biofeedback|0
+3|3|Body Equilibrium|0
+4|4|Cloud Mind|0
+5|5|Concealing Amorph|0
+6|6|Concussion Blast|0
+7|7|Control Sound|0
+8|8|Detect Hostile Intent|0
+9|9|Ego Whip|0
+10|10|Elfsight|0
+11|11|Specified Energy Adaptation|0
+12|12|Energy Push|0
+13|13|Energy Stun|0
+14|14|Feat Leech|0
+15|15|Id Insinuation|0
+16|16|Psionic Identify|0
+17|17|Inflict Pain|0
+18|18|Psionic Knock|0
+19|19|Psionic Levitate|0
+20|20|Mental Disruption|0
+21|21|Mass Missive|0
+22|22|Psionic Lock|0
+23|23|Recall Agony|0
+24|24|Forced Sense Link|0
+25|25|Share Pain|0
+26|26|Sustenance|0
+27|27|Swarm of Crystals|0
+28|28|Thought Shield|0
+29|29|Psionic Tongues|0

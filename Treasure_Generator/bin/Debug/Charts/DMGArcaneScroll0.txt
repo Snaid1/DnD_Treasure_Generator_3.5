@@ -1,0 +1,26 @@
+22
+01|04|acid splash|12|5
+05|08|arcane mark|12|5
+09|13|dancing lights|12|5
+14|17|daze|12|5
+18|24|detect magic|12|5
+25|28|detect poison|12|5
+29|32|disrupt undead|12|5
+33|37|flare|12|5
+38|42|ghost sound|12|5
+43|44|know direction|12|5
+45|50|light|12|5
+51|52|lullaby|12|5
+53|57|mage hand|12|5
+58|62|mending|12|5
+63|67|message|12|5
+68|72|open/close|12|5
+73|77|prestidigitation|12|5
+78|81|ray of frost|12|5
+82|87|read magic|12|5
+88|94|resistance|12|5
+95|96|summon instrument|12|5
+97|100|touch of fatigue|12|5
+
+// Dungeon Masters Guide - Page 239
+// Table 7-23:Arcane Spell Scrolls

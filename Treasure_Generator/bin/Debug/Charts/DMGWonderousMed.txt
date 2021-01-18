@@ -1,0 +1,101 @@
+100
+01|01|Boots of levitation|7500
+02|02|Harp of charming|7500
+03|03|Amulet of natural armor +2|8000
+04|04|Golem manual, flesh|8000
+05|05|Hand of glory|8000
+06|06|Ioun stone, deep red sphere|8000
+07|07|Ioun stone, incandescent blue sphere|8000
+08|08|Ioun stone, pale blue rhomboid|8000
+09|09|Ioun stone, pink and green sphere|8000
+10|10|Ioun stone, pink rhomboid|8000
+11|11|Ioun stone, scarlet and blue sphere|8000
+12|12|Deck of illusions|8100
+13|13|Necklace of fireballs type VI|8100
+14|14|Candle of invocation|8400
+15|15|Bracers of armor +3|9000
+16|16|Cloak of resistance +3|9000
+17|17|Decanter of endless water|9000
+18|18|Necklace of adaptation|9000
+19|19|Pearl of power, 3rd-level spell|9000
+20|20|Talisman of the sphere|9000
+21|21|Figurine of wondrous power, serpentine owl|9100
+22|22|Necklace of fireballs type VII|9150
+23|23|Strand of prayer beads, lesser|9600
+24|24|Bag of holding type IV|10000
+25|25|Figurine of wondrous power, bronze griffon|10000
+26|26|Figurine of wondrous power, ebony fly|10000
+27|27|Glove of storing|10000
+28|28|Ioun stone, dark blue rhomboid|10000
+29|29|Stone horse, courser|10000
+30|30|Cape of the mountebank|10080
+31|31|Phylactery of undead turning|11000
+32|32|Gauntlet of rust|11500
+33|33|Boots of speed|12000
+34|34|Goggles of night|12000
+35|35|Golem manual, clay|12000
+36|36|Medallion of thoughts|12000
+37|37|Pipes of pain|12000
+38|38|Boccob's blessed book|12500
+39|39|Belt, monk's|13000
+40|40|Gem of brightness|13000
+41|41|Lyre of building|13000
+42|42|Cloak of arachnida|14000
+43|43|Stone horse, destrier|14800
+44|44|Belt of dwarvenkind|14900
+45|45|Periapt of wound closure|15000
+46|46|Horn of the tritons|15100
+47|47|Pearl of the sirines|15300
+48|48|Figurine of wondrous power, onyx dog|15500
+49|49|Amulet of health +4|16000
+50|50|Belt of giant Strength +4|16000
+51|51|Boots, winged|16000
+52|52|Bracers of armor +4|16000
+53|53|Cloak of Charisma +4|16000
+54|54|Cloak of resistance +4|16000
+55|55|Gloves of Dexterity +4|16000
+56|56|Headband of intellect +4|16000
+57|57|Pearl of power, 4th-level spell|16000
+58|58|Periapt of Wisdom +4|16000
+59|59|Scabbard of keen edges|16000
+60|60|Figurine of wondrous power, golden lions|16500
+61|61|Chime of interruption|16800
+62|62|Broom of flying|17000
+63|63|Figurine of wondrous power, marble elephant|17000
+64|64|Amulet of natural armor +3|18000
+65|65|Ioun stone, iridescent spindle|18000
+66|66|Bracelet of friends|19000
+67|67|Carpet of flying, 5 ft. by 5 ft.|20000
+68|68|Horn of blasting|20000
+69|69|Ioun stone, pale lavender ellipsoid|20000
+70|70|Ioun stone, pearly white spindle|20000
+71|71|Portable hole|20000
+72|72|Stone of good luck (luckstone)|20000
+73|73|Figurine of wondrous power, ivory goats|21000
+74|74|Rope of entanglement|21000
+75|75|Golem manual, stone|22000
+76|76|Mask of the skull|22000
+77|77|Mattock of the titans|23348
+78|78|Circlet of blasting, major|23760
+79|79|Amulet of mighty fists +2|24000
+80|80|Cloak of displacement, minor|24000
+81|81|Helm of underwater action|24000
+82|82|Bracers of archery, greater|25000
+83|83|Bracers of armor +5|25000
+84|84|Cloak of resistance +5|25000
+85|85|Eyes of doom|25000
+86|86|Pearl of power, 5th-level spell|25000
+87|87|Maul of the titans|25305
+88|88|Strand of prayer beads|25800
+89|89|Cloak of the bat|26000
+90|90|Iron bands of Bilarro|26000
+91|91|Cube of frost resistance|27000
+92|92|Helm of telepathy|27000
+93|93|Periapt of proof against poison|27000
+94|94|Robe of scintillating colors|27000
+95|95|Manual of bodily health +1|27500
+96|96|Manual of gainful exercise +1|27500
+97|97|Manual of quickness in action +1|27500
+98|98|Tome of clear thought +1|27500
+99|99|Tome of leadership and influence +1|27500
+100|100|Tome of understanding +1|27500

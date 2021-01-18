@@ -1,0 +1,52 @@
+C:\Documents and Settings\DJ\Local Settings\Application Data\Temporary Projects\Treasure_Generator\bin\Debug\Treasure_Generator.exe
+C:\Documents and Settings\DJ\Local Settings\Application Data\Temporary Projects\Treasure_Generator\bin\Debug\Treasure_Generator.pdb
+C:\Documents and Settings\DJ\Local Settings\Application Data\Temporary Projects\Treasure_Generator\bin\Debug\Treasure_Generator.xml
+C:\Documents and Settings\DJ\Local Settings\Application Data\Temporary Projects\Treasure_Generator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DJ\Local Settings\Application Data\Temporary Projects\Treasure_Generator\obj\Debug\Treasure_Generator.frmTreasure.resources
+C:\Documents and Settings\DJ\Local Settings\Application Data\Temporary Projects\Treasure_Generator\obj\Debug\Treasure_Generator.Resources.resources
+C:\Documents and Settings\DJ\Local Settings\Application Data\Temporary Projects\Treasure_Generator\obj\Debug\Treasure_Generator.vbproj.GenerateResource.Cache
+C:\Documents and Settings\DJ\Local Settings\Application Data\Temporary Projects\Treasure_Generator\obj\Debug\Treasure_Generator.exe
+C:\Documents and Settings\DJ\Local Settings\Application Data\Temporary Projects\Treasure_Generator\obj\Debug\Treasure_Generator.xml
+C:\Documents and Settings\DJ\Local Settings\Application Data\Temporary Projects\Treasure_Generator\obj\Debug\Treasure_Generator.pdb
+D:\My Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.exe
+D:\My Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.xml
+D:\My Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.pdb
+D:\My Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\bin\Debug\Treasure_Generator.exe
+D:\My Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\bin\Debug\Treasure_Generator.pdb
+D:\My Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\bin\Debug\Treasure_Generator.xml
+D:\My Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.frmTreasure.resources
+D:\My Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.Resources.resources
+D:\My Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.vbproj.GenerateResource.Cache
+C:\Users\DJ\Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.exe
+C:\Users\DJ\Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.xml
+C:\Users\DJ\Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.pdb
+C:\Users\DJ\Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\bin\Debug\Treasure_Generator.exe
+C:\Users\DJ\Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\bin\Debug\Treasure_Generator.pdb
+C:\Users\DJ\Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\bin\Debug\Treasure_Generator.xml
+C:\Users\DJ\Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.frmTreasure.resources
+C:\Users\DJ\Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.Resources.resources
+C:\Users\DJ\Documents\Visual Studio 2008\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.vbproj.GenerateResource.Cache
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.exe
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.xml
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.pdb
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Treasure_Generator\Treasure_Generator\bin\Debug\Treasure_Generator.exe
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Treasure_Generator\Treasure_Generator\bin\Debug\Treasure_Generator.pdb
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Treasure_Generator\Treasure_Generator\bin\Debug\Treasure_Generator.xml
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.frmTreasure.resources
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.Resources.resources
+C:\Users\DJ\Documents\Visual Studio 2012\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.vbproj.GenerateResource.Cache
+C:\Users\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.exe
+C:\Users\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.xml
+C:\Users\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.pdb
+D:\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\bin\Debug\Treasure_Generator_5e.exe
+D:\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\bin\Debug\Treasure_Generator_5e.pdb
+D:\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\bin\Debug\Treasure_Generator_5e.xml
+D:\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.vbprojAssemblyReference.cache
+D:\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator_5e.frmTreasure.resources
+D:\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator_5e.Resources.resources
+D:\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.vbproj.GenerateResource.cache
+D:\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator.vbproj.CoreCompileInputs.cache
+D:\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator_5e.exe
+D:\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator_5e.xml
+D:\DJ\Documents\Visual Studio 2013\Projects\Treasure_Generator\Treasure_Generator\obj\Debug\Treasure_Generator_5e.pdb

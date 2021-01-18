@@ -1,0 +1,42 @@
+38
+01|03|Orc Double Axe|660|1
+04|07|Battleaxe|310|1
+08|10|Spiked Chain|325|4
+11|12|Club|300|2
+13|16|Hand Crossbow|400|4
+17|19|Repeating Crossbow|550|4
+20|21|Punching Dagger|302|4
+22|23|Falchion|375|1
+24|26|Dire Flail|690|2
+27|31|Heavy Flail|315|2
+32|35|Light Flail|308|2
+36|37|Gauntlet|302|2
+38|39|Spiked Gauntlet|305|4
+40|41|Glaive|308|1
+42|43|Greatclub|305|2
+44|45|Guisarme|309|1
+46|48|Halberd|310|5
+49|51|Halfspear|301|4
+52|54|Gnome Hooked Hammer|620|6
+55|56|Light Hammer|301|2
+57|58|Handaxe|306|1
+59|61|Kukri|308|1
+62|64|Lance|310|4
+65|67|Longspear|305|4
+68|70|Morningstar|308|6
+71|72|Net|320|0
+73|74|Heavy Pick|308|4
+75|76|Light Pick|304|4
+77|78|Ranseur|310|4
+79|80|Sap|301|2
+81|82|Scythe|318|5
+83|84|Shuriken|301|4
+85|86|Sickle|306|1
+87|89|Two-Bladed Sword|700|1
+90|91|Trident|315|4
+92|94|Dwarven Urgrosh|650|5
+95|97|Warhammer|312|2
+98|100|Whip|301|1
+
+// Dungeon Masters Guide - Page 222
+// Table 7-12:Uncommon Melee Weapons

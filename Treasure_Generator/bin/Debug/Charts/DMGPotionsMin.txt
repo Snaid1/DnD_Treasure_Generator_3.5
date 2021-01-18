@@ -1,0 +1,48 @@
+43
+01|10|Potion of Cure light wounds|50
+11|13|Potion of Endure elements|50
+14|15|Potion of Hide from animals|50
+16|17|Potion of Hide from undead|50
+18|19|Potion of Jump|50
+20|22|Potion of Mage armor|50
+23|25|Potion of Magic fang|50
+26|26|Oil of Magic stone|50
+27|29|Oil of Magic weapon|50
+30|30|Potion of Pass without trace|50
+31|32|Potion of Protection from <Alignment>|50
+33|34|Potion of Remove fear|50
+35|35|Potion of Sanctuary|50
+36|38|Potion of Shield of faith +2|50
+39|39|Oil of Shillelagh|50
+40|41|Oil of Bless weapon|100
+42|44|Potion of Enlarge person|250
+45|45|Potion of Reduce person|250
+46|47|Potion of Aid|300
+48|50|Potion of Barkskin +2|300
+51|53|Potion of Bear's endurance|300
+54|56|Potion of Blur|300
+57|59|Potion of Bull's strength|300
+60|62|Potion of Cat's grace|300
+63|67|Potion of Cure moderate wounds|300
+68|68|Oil of Darkness|300
+69|71|Potion of Darkvision|300
+72|74|Potion of Delay poison|300
+75|76|Potion of Eagle's splendor|300
+77|78|Potion of Fox's cunning|300
+79|80|Potion of Invisibility|300
+81|81|Oil of Invisibility|300
+82|84|Potion of restoration|300
+85|85|Potion of Levitate|300
+86|86|Oil of Levitate|300
+87|87|Potion of Misdirection|300
+88|89|Potion of Owl's wisdom|300
+90|91|Potion of Protection from arrows 10/magic|300
+92|93|Potion of Remove paralysis|300
+94|96|Potion of Resist energy <Energy> 10(potion)|300
+97|97|Potion of Shield of faith +3|300
+98|99|Potion of Spider climb|300
+100|100|Potion of Undetectable alignment|300
+
+// Dungeon Masters Guide - Page 230
+// Table 7-17:Potions and Oils
+// Left Column - Minor

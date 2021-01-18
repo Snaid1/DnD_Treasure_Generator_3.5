@@ -1,0 +1,39 @@
+34
+01|03|Glamered|0
+04|04|FortificationLight|0
+05|07|ImprovedSlick|0
+08|10|ImprovedShadow|0
+11|13|ImprovedSilentMoves|0
+14|16|AcidResistance|0
+17|19|ColdResistance|0
+20|22|ElectricityResistance|0
+23|25|FireResistance|0
+26|28|SonicResistance|0
+29|33|GhostTouch|0
+34|35|Invulnerability|0
+36|40|FortificationModerate|0
+41|42|SpellResistance15|0
+43|43|Wild|0
+44|48|Slick, greater|0
+49|53|ShadowGreater|0
+54|58|SilentMovesGreater|0
+59|63|ImprovedAcidResistance|0
+64|68|ImprovedColdResistance|0
+69|73|ImprovedElectricityResistance|0
+74|78|ImprovedFireResistance|0
+79|83|ImprovedSonicResistance|0
+84|88|SpellResistance17|0
+89|89|Etherealness|0
+90|90|UndeadControlling|0
+91|92|FortificationHeavy|0
+93|94|SpelResistance19|0
+95|95|GreaterAcidResistance|0
+96|96|GreaterColdResistance|0
+97|97|GreaterElectricityResistance|0
+98|98|GreaterFireResistance|0
+99|99|GreaterSonicResistance|0
+100|100|ROLLTWICE|0
+
+// Dungeon Masters Guide - Page 217
+// Table 7-5:Armor Special Abilities
+// Right Column - Major

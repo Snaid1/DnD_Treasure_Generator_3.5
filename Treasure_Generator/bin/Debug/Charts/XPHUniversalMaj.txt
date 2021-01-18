@@ -1,0 +1,15 @@
+14
+01|08|Skin of the defender|32000
+09|16|Torc of power preservation|36000
+17|24|Boots of temporal acceleration|43200
+25|32|Third eye repudiate|43200
+33|40|Skin of fiery response|60000
+41|49|Skin of the troll|61200
+50|57|Skin of the hero|77500
+58|63|Skin of the spider|79080
+64|72|Skin of proteus|84000
+73|80|Third eye expose|112000
+81|87|Third eye conceal|120000
+88|92|Third eye dominate|120000
+93|97|Skin of iron|129600
+98|100|Skin of the psion|151000

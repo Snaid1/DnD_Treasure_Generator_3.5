@@ -1,0 +1,16 @@
+11
+01|05|Heartening|0
+06|10|Ranged|0
+11|15|Linked|0
+16|35|PowerResistance13|0
+36|62|Manifester|0
+63|88|Averter|0
+89|92|Vanishing|0
+93|96|PowerResistance15|0
+97|98|Wall|0
+99|99|Mindarmor|0
+100|100|ROLLTWICE|0
+
+// Expanded Psionic Handbook - Page 162
+// Table 7-4:Psionic Shield Special Abilities
+// Middle Column - Medium

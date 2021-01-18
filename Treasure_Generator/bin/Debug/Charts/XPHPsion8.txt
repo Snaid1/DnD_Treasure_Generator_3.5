@@ -1,0 +1,9 @@
+8
+1|1|Bend Reality|0
+2|2|Psionic Iron Body|0
+3|3|Matter Manipulation|0
+4|4|Psionic Mind Blank|0
+5|5|Recall Death|0
+6|6|Shadow Body|0
+7|7|Psionic Greater Teleport|0
+8|8|True Metabolism|0

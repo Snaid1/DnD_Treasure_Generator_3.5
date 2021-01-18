@@ -1,0 +1,7 @@
+4
+01|01|Good|0
+02|02|Evil|0
+03|03|Law|0
+04|04|Chaos|0
+
+// Alignments For Given things

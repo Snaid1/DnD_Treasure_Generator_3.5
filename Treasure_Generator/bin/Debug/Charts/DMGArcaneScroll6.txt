@@ -1,0 +1,53 @@
+48
+01|02|acid fog|1650
+03|05|analyze dweomer|1650
+06|06|animate objects|2400
+07|09|antimagic field|1650
+10|12|mass bear's endurance|1650
+13|14|Bigby's forceful hand|1650
+15|17|mass bull's strength|1650
+18|20|mass cat's grace|1650
+21|23|chain lightning|1650
+24|25|circle of death|2150
+26|26|contingency|1650
+27|28|control water|1650
+29|29|create undead|2350
+30|30|mass cure moderate wounds|2400
+31|33|disintegrate|1650
+34|37|greater dispel magic|1650
+38|40|mass eagle's splendor|1650
+41|42|eyebite|1650
+43|43|find the path|2400
+44|45|flesh to stone|1650
+46|48|mass fox's cunning|1650
+49|49|geas/quest|1650
+50|52|globe of invulnerability|1650
+53|53|guards and wards|1650
+54|54|heroes' feast|2400
+55|56|heroism greater|1650
+57|57|legend lore|1900
+58|59|mislead|1650
+60|60|Mordenkainen's lucubration|1650
+61|62|move earth|1650
+63|64|Otiluke's freezing sphere|1650
+65|67|mass owl's wisdom|1650
+68|69|permanent image|1650
+70|71|planar binding|1650
+72|73|programmed image|1675
+74|75|repulsion|1650
+76|78|shadow walk|1650
+79|81|stone to flesh|1650
+82|83|mass suggestion|1650
+84|85|summon monster VI|1650
+86|86|symbol of fear|2650
+87|87|symbol of persuasion|6650
+88|88|sympathetic vibration|2400
+89|90|Tenser's transformation|1950
+91|93|true seeing|1900
+94|95|undeath to death|2150
+96|97|veil|1650
+98|100|wall of iron|1700
+
+// Dungeon Masters Guide- Page 240
+// Table 7-23:Arcane Spell Scrolls
+// 6th-Level Arcane Spells

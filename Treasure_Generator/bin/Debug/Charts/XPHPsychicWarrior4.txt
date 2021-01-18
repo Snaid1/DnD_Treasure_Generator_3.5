@@ -1,0 +1,12 @@
+11
+1|1|Claw of Energy|0
+2|2|Psionic Dimension Door|0
+3|3|Energy Adaptation|0
+4|4|Psionic Freedom of Movement|0
+5|5|Immovability|0
+6|6|Inertial Barrier|0
+7|7|Psychic Vampire|0
+8|8|Steadfast Perception|0
+9|9|Truevenom|0
+10|10|Truevenom Weapon|0
+11|11|Weapon of Energy|0

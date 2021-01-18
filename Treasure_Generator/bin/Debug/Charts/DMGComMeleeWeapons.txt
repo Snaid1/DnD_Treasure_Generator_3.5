@@ -1,0 +1,20 @@
+16
+01|04|Dagger|302|5
+05|14|Greataxe|320|1
+15|24|Greatsword|350|1
+25|28|Kama|302|1
+29|41|Longsword|315|1
+42|45|Light Mace|305|2
+46|50|Heavy Mace|312|2
+51|54|Nunchaku|302|2
+55|57|Quarterstaff|600|2
+58|61|Rapier|320|4
+62|66|Scimitar|315|1
+67|70|Shortspear|302|4
+71|74|Siangham|303|4
+75|84|Bastard Sword|335|1
+85|89|Short Sword|310|1
+90|100|Dwarven Waraxe|330|1
+
+// Dungeon Masters Guide - Page 222
+// Table 7-11:Common Melee Weapons
